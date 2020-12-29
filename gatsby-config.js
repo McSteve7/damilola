@@ -3,7 +3,7 @@ module.exports = {
     title: `Damilola Ajiboye`,
     name: `Damilolaa`,
     siteUrl: `https://damilolaa.xyz`,
-    description: `Damilola Ajiboye's Website`,
+    description: `Damilola Ajiboye - Product Manager`,
     hero: {
       heading: `Musings about Product Management, Design and Development.`,
       maxWidth: 652,
