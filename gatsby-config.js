@@ -5,7 +5,7 @@ module.exports = {
     siteUrl: `https://damilolaa.xyz`,
     description: `Damilola Ajiboye - Product Manager`,
     hero: {
-      heading: `Musings about Product Management, Design and Development.`,
+      heading: `Musings on Product Management, Design and Development.`,
       maxWidth: 652,
     },
     social: [
