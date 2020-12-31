@@ -63,7 +63,7 @@ Likewise, a secured payment gateway for an e-commerce business will most likely 
     src="./images/delighter.png"
     title="Delighter Feature"
     alt="Delighter Feature"
-  />
+  /> 
 </div>
 These are the unanticipated “wow” features that in-turn become one of the drivers of unique selling points. When a delighter is carefully crafted and implemented, they create significant excitement and delight for the users.
 
@@ -93,6 +93,8 @@ However, when properly planned and initiated, delighters tend to increase custom
 **Conclusively,**
 
 Dear PM, startup founder. Before you add that amazing feature to your product, ask yourself the question — Do they need this at the moment? Afterward, find out from your user using the Kano questionnaire (Or whatever works fine with you) as a guideline before making your decision. Also, note that like almost everything, delighters have it’s pros and cons and you will only be able to increase your customer satisfaction and attract only the good part if you understand how your user feel about your product and align your decisions with it.
+
+This article first appeared on my [Medium](https://medium.com/@stephenajiboye7/delighters-the-wow-feature-set-a07ba19719c1/)
 
 ----
 
