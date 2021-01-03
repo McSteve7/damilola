@@ -4,6 +4,6 @@ I enjoy coming up with strategies, talking to users, aligning team members to a 
 
 Asides PMing, I try to work on personal projects (mostly the ones that will require me to write some code), read startup and fundraising news and playing video games.
 
-😄 My Pronouns: Him/He
-💬 Ask me about: Product Management and Product Design.
-📱 @steve_dammy
+- 😄 My Pronouns: Him/He
+- 💬 Ask me about: Product Management and Product Design.
+- 📱 @steve_dammy
