@@ -7,4 +7,6 @@ Asides PMing, I try to work on personal projects (mostly the ones that will requ
 - 😄 My Pronouns: Him/He
 - 💬 Ask me about: Product Management and Product Design.
 - 📱 @steve_dammy
-- 🚀 Built with [Gatsby Starter Novela](https://www.narative.co/labs/novela/)
+
+
+🚀 Built with [Gatsby Starter Novela](https://www.narative.co/labs/novela/)
