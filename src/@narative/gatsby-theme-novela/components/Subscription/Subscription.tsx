@@ -46,7 +46,7 @@ const Subscription: React.FC<{}> = () => {
             Musings on building user-centric products directly in your inbox monthly
           </Heading>
           <Text>
-          Get notified of new post as I publish them ✨         
+          Get notified of new posts as they get published ✨         
            </Text>
           <Form onSubmit={handleSubmit} hasError={error}>
             <Input
