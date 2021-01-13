@@ -46,7 +46,7 @@ const Subscription: React.FC<{}> = () => {
             Join my email list and get notified of every new post
           </Heading>
           <Text>
-          Get emails about new articles on how to build user-centric products ✨          </Text>
+          Get notified of new articles on how to build user-centric products ✨          </Text>
           <Form onSubmit={handleSubmit} hasError={error}>
             <Input
               placeholder="your@email.com"
