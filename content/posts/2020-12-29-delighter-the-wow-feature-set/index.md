@@ -99,7 +99,10 @@ This article first appeared on my [Medium](https://medium.com/@stephenajiboye7/d
 ----
 
 
-Sources:
+## Sources:
 
-1.  [Choosing the Right Features with Kano Model](http://choosing%20the%20right%20features%20with%20kano%20model/) —Aleksandra Bis
-2. [Kano model, product design and startups: a powerful combination ](https://medium.com/@solmesz/kano-model-product-design-and-startups-a-powerful-combination-61eacf1a6f30) - Sol Mesz
+- [Hero Image by Farhan Azam on Unsplash](https://images.unsplash.com/photo-1560094824-13b9bc472f86?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80)
+
+-  [Choosing the Right Features with Kano Model](http://choosing%20the%20right%20features%20with%20kano%20model/) —Aleksandra Bis
+
+- [Kano model, product design and startups: a powerful combination ](https://medium.com/@solmesz/kano-model-product-design-and-startups-a-powerful-combination-61eacf1a6f30) - Sol Mesz

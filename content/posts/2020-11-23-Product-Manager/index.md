@@ -55,3 +55,8 @@ The goal of a product team is to delight its user by providing an excellent solu
 So, regardless of your job role, a great product person will always act in the stead of a product manager and never streamline herself to the JD only but be actively involved directly or indirectly in every phase of the product development cycle. When the role is clearly understood and the duties implemented collaboratively as a team, every aspect of the product comes together in one beautiful piece.
 
 This article first appeared on my [Medium](https://blog.usejournal.com/product-manager-vs-product-marketing-manager-vs-product-owner-8ab08bc45662 "Medium")
+
+<hr/>
+
+### Sources:
+- [Hero Image by airfocus on Unsplash](https://unsplash.com/s/photos/product-manager?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
