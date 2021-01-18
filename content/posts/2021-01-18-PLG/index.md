@@ -111,7 +111,9 @@ In making this switch, you have to come to terms with the fact that users prefer
 Clearly, PLG is not a "set it" and "forget it" strategy. It is not a quick fix and you will require all the work needed to make it work.
 
 Please, Feel free to share what you think and what your experience has been using PLG. Happy to learn from them.
+<br/>
 
+Thanks to [Praise Mbanali](https://www.linkedin.com/in/praise-mbanali-27229115a/) and [Olabinjo Adeniran](https://www.linkedin.com/in/olabinjo/) for reviewing this article.
 
 ---
 
