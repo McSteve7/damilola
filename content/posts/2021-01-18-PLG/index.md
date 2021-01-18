@@ -72,7 +72,7 @@ It is useful to note that PLG is not limited to Business to Consumers (B2C) only
 [Calendly](https://calendly.com) for instance minimizes friction in their onboarding process and gets the user to try out their product in a few minutes as seen in the slideshow below.
 
 <figure class="video_container" style="text-align: center">
- <iframe width="560" height="315" src="https://www.youtube.com/embed/xROYeThUJ8k" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><figcaption>A short clip showing some PLG practices in Calendly onboarding process.</figcaption>
+ <iframe width="400" height="315" src="https://www.youtube.com/embed/xROYeThUJ8k" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><figcaption>A short clip showing some PLG practices in Calendly onboarding process. (Switch to full screen for a better view)</figcaption>
 </figure>
 <br/><br/>
 
