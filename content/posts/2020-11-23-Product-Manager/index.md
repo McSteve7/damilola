@@ -56,6 +56,8 @@ So, regardless of your job role, a great product person will always act in the s
 
 This article first appeared on my [Medium](https://blog.usejournal.com/product-manager-vs-product-marketing-manager-vs-product-owner-8ab08bc45662 "Medium")
 
+Thanks to [Olufisayo Babalola](https://www.linkedin.com/in/olufisayo-babalola/) for reviewing this article.
+
 <hr/>
 
 ### Sources:
