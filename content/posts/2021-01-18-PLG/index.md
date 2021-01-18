@@ -10,7 +10,7 @@ It is hard to fathom now, but there was a time when adopting a new software coul
 
 Product-led growth is a business methodology or a way of running your business in which the product serves as the main vehicle for user acquisition, activation, and retention. One of the ways to achieve this is by offering a personalized and delightful experience.
 
-[Openview Partners](https://medium.com/r/?url=https%3A%2F%2Fopenviewpartners.com%2Fproduct-led-growth%2F%23.XTDUWehKhPY) originally coined the term (and came up with this definition) but it has since been used as a growth strategy by many others trying to grow their companies.
+[Openview Partners](https://openviewpartners.com/product-led-growth/#.XTDUWehKhPY) originally coined the term (and came up with this definition) but it has since been used as a growth strategy by many others trying to grow their companies.
 
 _"Product Led Growth (PLG) is a go-to-market strategy that relies on product usage as the primary driver of acquisition, conversion and expansion."_
 
@@ -65,7 +65,7 @@ The team selling the product aka the profit center which will mostly include Sal
 
 The shortcoming with the sales-led structure is that the product is usually a second-thought for the profit center teams and this creates a gap in proper dissemination of sales and marketing insight to products and engineering.
 
-It is useful to note that PLG is not limited to Business to Consumers (B2C) only. According to Forrester, 3 out of every 4 Business to Business (B2B) buyers would rather self-educate than learn about a product from a sales representative. This is why Product-led companies are gaining more traction in terms of user acquisition, activation and retention. This strategy has therefore been able to limit wait time and do the heavy-lifting of putting the users up to speed with the product and consequently increasing the time to value (The time it takes a user to get value from a product) of the product. Likewise acquisition, activation, and retention.
+It is useful to note that PLG is not limited to Business to Consumers (B2C) only. [According to Forrester](https://go.forrester.com/blogs/16-02-10-how_self_service_research_will_change_b2b_marketing/), 3 out of every 4 Business to Business (B2B) buyers would rather self-educate than learn about a product from a sales representative. This is why Product-led companies are gaining more traction in terms of user acquisition, activation and retention. This strategy has therefore been able to limit wait time and do the heavy-lifting of putting the users up to speed with the product and consequently increasing the time to value (The time it takes a user to get value from a product) of the product. Likewise acquisition, activation, and retention.
 
 ## Examples of Product-led companies
 
@@ -101,7 +101,7 @@ In solving these problems, you want to make sure that you don't add to the probl
 
 
 <figure>
-  <img src="images/plg.png" alt=""/>
+  <img src="images/plg.png" alt="Product-led Prism depicting how all the team work together to achieve one aim"/>
   <figcaption>Product-led Prism depicting how all the team work together to achieve one aim - intuitive UX (Credit: <a>productled.org</a>)</figcaption>
 </figure>
 <br/><br/>
@@ -118,8 +118,8 @@ Please, Feel free to share what you think and what your experience has been usin
 ## Sources:
 - [Hero Image by Markus Spiske on Unsplash](https://medium.com/r/?url=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Fgrowth%3Futm_source%3Dunsplash%26utm_medium%3Dreferral%26utm_content%3DcreditCopyText)
 
-- [What is product-led growth? by Product-Led Growth CollectiveWhat is product-led growth? by Product-Led Growth Collective](https://medium.com/r/?url=https%3A%2F%2Fwww.productled.org%2Ffoundations%2Fwhat-is-product-led-growth%23Chap2)
+- [What is product-led growth? by Product-Led Growth CollectiveWhat is product-led growth? by Product-Led Growth Collective](https://www.productled.org/foundations/what-is-product-led-growth#Chap2)
 
-- [What Is Product-Led Growth: A Definition & Why It's Taking Off? by Wes Bush](https://medium.com/r/?url=https%3A%2F%2Fwww.productled.org%2Ffoundations%2Fwhat-is-product-led-growth%23Chap2)
+- [What Is Product-Led Growth: A Definition & Why It's Taking Off? by Wes Bush](https://productled.com/product-led-growth-definition/)
 
-- [PRODUCT LED GROWTH Fueling the fastest growing software companies. by Openview Partners](https://medium.com/r/?url=https%3A%2F%2Fopenviewpartners.com%2Fproduct-led-growth%2F%23.X_ylCuhKjIV)
+- [PRODUCT LED GROWTH Fueling the fastest growing software companies. by Openview Partners](https://openviewpartners.com/product-led-growth/#.X_ylCuhKjIV)
