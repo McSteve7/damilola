@@ -17,8 +17,8 @@ _"Product Led Growth (PLG) is a go-to-market strategy that relies on product usa
 It means that at every stage of the customer's journey, the product leads the way. With PLG, unnecessary frictions are removed and users are able to get a first-hand experience of the product with no hassle and time-wasting, unlike the traditional model where you have to go through a series of onboarding process, filling of demo request form, credit card submissions amongst other steps before getting value from the product.
 
 It is also pertinent to note that
-> Product-led growth ≠ to Product Management-led growth.
-
+#### Product-led growth ≠ to Product Management-led growth.
+<br/>
 
 PLG creates a company-wide alignment towards the product in which customer success, engineering, product, design, marketing, and every other department are all on the same page about the product being the major driver of growth.
 
@@ -52,20 +52,20 @@ The main reason why you want to switch to PLG is so that your product serves as 
 
 Outstanding customer experience has always been the key to success. Before now, this experience was owned by sales. If you were to buy a product, you'd talk to a salesperson. If you were lucky, they were empathetic and communicated the product effectively such that you bought it and it solved your pain points.
 
-But what PLG does is that it puts the product on the user's hands as soon as they request it.
+But what PLG does is that it puts the product in the user's hands as soon as they request it.
 
-It is important to note that PLG does not sideline or rule-out sales and marketing efforts. It only reduces the pressure and weight on them and helps them to carry out their work more easily and communicate product values seamlessly.
+>> It is important to note that PLG does not sideline or rule-out sales and marketing efforts. It only reduces the pressure and weight on them and helps them to carry out their work more easily and communicate product values seamlessly.
 
 Communicating your product value is at the helm of a Product-Led Growth strategy. Sales-led companies love to hide their pricing behind closed doors, asking potential buyers to request a quote. Product-led companies remove this bottleneck and unnecessary friction with up-front pricing for their plans.
 
 With PLG, all departments are aligned towards one major goal which is making the product the proof point of the business, unlike sales-led organizations where departments are separated into:
 
-The team that builds the product (Product and Engineering); and
-The team selling the product aka the profit center which will mostly include Sales, Marketing and Success.
+- The team that builds the product (Product and Engineering); and
+- The team selling the product aka the profit center which will mostly include Sales, Marketing and Success.
 
 The shortcoming with the sales-led structure is that the product is usually a second-thought for the profit center teams and this creates a gap in proper dissemination of sales and marketing insight to products and engineering.
 
-It is useful to note that PLG is not limited to Business to Consumers (B2C) only. [According to Forrester](https://go.forrester.com/blogs/16-02-10-how_self_service_research_will_change_b2b_marketing/), 3 out of every 4 Business to Business (B2B) buyers would rather self-educate than learn about a product from a sales representative. This is why Product-led companies are gaining more traction in terms of user acquisition, activation and retention. This strategy has therefore been able to limit wait time and do the heavy-lifting of putting the users up to speed with the product and consequently increasing the time to value (The time it takes a user to get value from a product) of the product. Likewise acquisition, activation, and retention.
+It will interes you to note that PLG is not limited to Business to Consumers (B2C) only. [According to Forrester](https://go.forrester.com/blogs/16-02-10-how_self_service_research_will_change_b2b_marketing/), 3 out of every 4 Business to Business (B2B) buyers would rather self-educate than learn about a product from a sales representative. This is why Product-led companies are gaining more traction in terms of user acquisition, activation and retention. This strategy has therefore been able to limit wait time and do the heavy-lifting of putting the users up to speed with the product and consequently increasing the time to value (The time it takes a user to get value from a product) of the product. Likewise acquisition, activation, and retention.
 
 ## Examples of Product-led companies
 
@@ -78,7 +78,7 @@ It is useful to note that PLG is not limited to Business to Consumers (B2C) only
 
 The company prioritizes the user's need which is to schedule meetings and did not get in the way with any unnecessary feature, they also kept to their promise of not asking for your credit card details till you're ready to be a paying user. All this is to the end that you the user get your hands on the product seamlessly and get value from it as quickly as possible.
 
-Dropbox, Notion, Slack, Airtable, Atlaissan, Figma, Typeform, Zoom, Surveymonkey, Dropbox, Twilio, Shopify are some other great examples of PLG companies. They all have the following characteristics in common:
+Dropbox, Notion, Slack, Airtable, Atlaissan, Figma, Typeform, Zoom, Surveymonkey, Twilio, Shopify are some other great examples of PLG companies. They all have the following characteristics in common:
 
 1. You can get started on any of them in a few minutes and get value out of it.
 2. There is less friction in the onboarding and entire customer journey.
