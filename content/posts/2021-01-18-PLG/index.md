@@ -1,5 +1,5 @@
 ---
-title: PRODUCT-LED GROWTH - What it is and how you can leverage it.
+title: PRODUCT-LED GROWTH - What it is and how you can leverage it
 author: Damilola Ajiboye
 date: 2021-01-18
 hero: ./images/hero.jpg 
