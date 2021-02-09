@@ -27,7 +27,7 @@ A product owner (PO) maximizes the value of a product through the creation and m
 <div className="Image__Small">
   <img
     src="./images/pm.png"
-    title="Photo by Marvin Meyer on Unsplash"
+    title="Product Manager vs Product Marketing Manager vs Product Owner"
     alt="Product Manager vs Product Marketing Manager vs Product Owner"
   />
 </div>
