@@ -1,3 +1,4 @@
+require('dotenv').config();
 module.exports = {
   siteMetadata: {
     title: `Damilola Ajiboye`,
@@ -28,6 +29,15 @@ module.exports = {
     ],
   },
   plugins: [
+
+    {
+      resolve: 'gatsby-source-contentful',
+      options: {
+        spaceId: process.env.CONTENTFUL_SPACE_ID,
+        accessToken: process.env.CONTENTFUL_ACCESS_TOKEN,
+      },
+    },
+
     {
       resolve: "@narative/gatsby-theme-novela",
       options: {
@@ -38,7 +48,7 @@ module.exports = {
         authorsPage: true,
         sources: {
           local: true,
-          // contentful: true,
+         //contentful: false,
         },
       },
     },

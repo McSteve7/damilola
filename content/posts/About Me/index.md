@@ -1,11 +1,12 @@
 ---
-title: 👋 About
+title: 👋🏾 About
 author: Damilola Ajiboye
 date: 2020-12-28
 hero: ./images/damilola-ajiboye.jpg
 secret: true
 subscription: false
 slug: /about
+
 ---
 
  Hi, my name is **Damilola**. I’m a Product Manager passionate about building user-centric products.
@@ -17,3 +18,4 @@ Before Product Management, I’ve been a web designer, a developer (front-end) a
 🎯 I’m Interested in Finance and Investment, Artificial intelligence, and Community building.
 
 🏠 Based in Lagos, Nigeria 🇳🇬,
+
