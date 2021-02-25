@@ -33,7 +33,7 @@ Once you know your audience, segment the market and know who your primary and se
 Eventually, you can choose to expand but start with a subset and a place you are likely to win.
 For instance,  In the earlier days of Lyft, the co-founders didn’t interview every single person that might be experiencing issues commuting but rather interviewed the set that is likely to encounter it on a daily basis - College students. 
 
-Creating a friendly ambiance around your users can also be very helpful in driving a meaningful conversation with them. As one trying to solve a particular person’s problem, you want to be “close” enough to the person to establish a perfect ground around the problem. If you were building a solution to help creatives monetize their craft, for instance, amongst other things that you would do, you would want to follow as many on Instagram, Youtube and activate post notification for quick updates..<br/> Establishing this ground does not mean that you have to precariously intrude on the person’s privacy. Showing that you really care about the problem might be a signal for your potential user to open-up for an insightful conversation.
+Creating a friendly ambiance around your users can also be very helpful in driving a meaningful conversation with them. As one trying to solve a particular person’s problem, you want to be “close” enough to the person to establish a perfect ground around the problem. If you were building a solution to help creatives monetize their craft, for instance, amongst other things that you would do, you would want to follow as many on Instagram, Youtube and activate post notification for quick updates.<br/> Establishing this ground does not mean that you have to precariously intrude on the person’s privacy. Showing that you really care about the problem might be a signal for your potential user to open-up for an insightful conversation.
 Having a clear audience means you can focus your efforts on their needs first, and then expand from there. 
 >>> Like [Deb Liu](https://www.linkedin.com/in/deborahliu) puts it, “Before you build for the world, win in one market. You can later take the capabilities you built and move to adjacent verticals or experiences”.
 
@@ -56,7 +56,7 @@ Set a target for yourself and define what success will look like at the end of t
 [Suggested resource: OKR Templates](https://okrtemplates.com/)
 
 ### Stay safe - utilize tools for product discovery
-Utilizing software tools to drive product discovery has never been this required. Since the coronavirus pandemic hit, we have all found ways to digitize our process and this applies to product discovery as there are a couple of tools that can be helpful in this process. 
+Utilizing software tools to drive product discovery has never been this required. Since the coronavirus pandemic hit, we have all found ways to digitize our processes and this applies to product discovery as there are a couple of tools that can be helpful in this process. 
 
 - #### Note-taking:  
 &nbsp; [Google docs](https://docs.google.com), [Notion](https://www.notion.so/), [Evernote](https://evernote.com). <br/>
@@ -73,14 +73,14 @@ Utilizing software tools to drive product discovery has never been this required
 
 
 
-- ### Identify risk - What are the pitfalls? <br/><br/>
+### Identify risk - What are the pitfalls? <br/><br/>
 Beyond talking to users, you also want to use this period to evaluate if there is a thriving ground for your idea or not. Identifying big risks that need to be tackled during the discovery phase is important as no one wants to invest resources and money in a wasted venture. Some of these risks include:
 
 - Financial risk – can we afford this solution?
 - Sales risk – is this solution compatible with our go-to-market strategy?
 - Legal risk – is this solution something we can legally do?
 
-If you’re a startup in Nigeria, you definitely should include Regulatory risk on the list because the earlier you start factoring this in, the better it is for your company.
+If you’re a startup in Nigeria, you definitely should include Regulatory risk on the list because the earlier you factor this in, the better it is for your company.
 <hr/>
 
 Product discovery is important for any new feature you want to build even on an existing product. In product discovery, talk to your users. Not the general public. 
