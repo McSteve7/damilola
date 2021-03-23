@@ -9,7 +9,7 @@ slug: /about
 
 ---
 
- Hi, my name is **Damilola**. I’m a Product Manager passionate about building user-centric products.
+ Hi, my name is Damilola Ajiboye. I’m a Product Manager passionate about building user-centric products.
 
 Before Product Management, I’ve been a web designer, a developer (front-end) and a digital marketer. The experiences gotten from these roles have been worthwhile in propelling me to be a better PM. 
 
@@ -17,5 +17,5 @@ Before Product Management, I’ve been a web designer, a developer (front-end) a
 
 🎯 I’m Interested in Finance and Investment, Artificial intelligence, and Community building.
 
-🏠 Based in Lagos, Nigeria 🇳🇬,
+🏠 Based in Lagos, Nigeria 🇳🇬.
 
