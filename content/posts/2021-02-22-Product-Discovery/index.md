@@ -21,13 +21,16 @@ The product discovery process is crucial because it puts the teams in the custom
 Without qualitative and quantitative insight to validate or invalidate your assumptions, you might be wasting lots of money, time, and resources on an unreasonable and unattainable goal.
 
 ## CONDUCTING PRODUCT DISCOVERY <br/>
+
 It is advised that product discovery is timeboxed especially for new products (This does not mean that the process needs to be rushed). Timeboxing your discovery process means setting a timeframe for it after factoring in various risks. If the discovery work is not completed after the specified period, you can either add another time box or stop the discovery process. This helps you to do meaningful work and not get caught up in the validation depth. It also helps in getting the product to the market quickly and getting actionable feedbacks that can drive the next iteration.
 In conducting product discovery, you have to think beyond the four walls of your company/home - It’s time to hit the street and get some raw actionable insights from real people. However, this might not be possible in a pandemic like COVID. Utilizing product discovery tools (listed below) can help bridge this gap.
 
 ### Define your “why”
+
 Highlight the goal of the exercise and get everybody on the team on board with it before starting the discovery work. Mapping out the "why" will always keep you in check to stay within the scope of the discovery. You also should make sure that the scope of product discovery is in line with the company’s goal.
 
 ### Know your users/audience.
+
 You need to discover whether there are real users out there that want this product or people that have this problem that you are trying to solve. This helps you to know early if the idea is worth venturing into. Knowing your users goes beyond just highlighting a bunch of people who have encountered the problem as some of these people are probably nonchalant about the solution you have to offer. Your users are those who encounter this problem on a regular basis and are passionate about solving it.
 Once you know your audience, segment the market and know who your primary and secondary segments are. It will help you know who you are not serving. Choosing who you will not serve is just as important as knowing who you plan to serve.<br/>
 Eventually, you can choose to expand but start with a subset and a place you are likely to win.
@@ -40,6 +43,7 @@ Having a clear audience means you can focus your efforts on their needs first, a
 [Suggested watch: How to talk to users by Y Combinator partner, Eric Migicovsky.](https://www.ycombinator.com/library/6g-how-to-talk-to-users)
 
 ### Focus on problem validation, not solution building. (Be open to learn, unlearn and relearn)
+
 Be flexible with your idea as the product discovery process can either validate or invalidate it. Sometimes, you might have to go back to the drawing board and build something different from your initial idea. This happened to Kevin Systrom who initially built Bourbn (a check-in app) but had to kill it for a photo-sharing feature on the app after discovering that no one was interested in checking in their locations but more people loved the photo-sharing feature which later became Instagram.
 [Enlightened empathy](https://www.fastcompany.com/3023403/how-joe-gerrbia-and-airbnb-conquered-the-trough-of-sorrow-with-enlightened-empat) as described by Joe Gebbia of Airbnb is seeing the world so closely in the shoes of the person you are creating for, that you could see the world the way they see it. With this, you combine the insight gotten with your own-design point of view to create something new.
 
@@ -51,29 +55,42 @@ Be flexible with your idea as the product discovery process can either validate 
 Joe and his co-founder Brian Chesky would go from house-to-house in Brooklyn Manhattan part of New York to take pictures of the homes on the site (AirBed and Breakfast). When invited to stay over for coffee, They’d gladly oblige and utilize this period to achieve enlightened empathy with the user. Through this, They were able to see how their perfectly designed interface completely failed when they asked the users to show them how they view listings and calendar on the website and was surprised to see how what they thought would take 2-3 clicks to get done was taking people about 10-12 clicks to complete.
 
 ### Define success upfront - What will winning look like?
+
 Set a target for yourself and define what success will look like at the end of the product discovery. It is advisable to also set some timeframe around this. Popular metric system that you can use is OKR and KPI.
 
 [Suggested resource: OKR Templates](https://okrtemplates.com/)
 
 ### Stay safe - utilize tools for product discovery
+
 Utilizing software tools to drive product discovery has never been this required. Since the coronavirus pandemic hit, we have all found ways to digitize our processes and this applies to product discovery as there are a couple of tools that can be helpful in this process. 
 
 - #### Note-taking:  
+
 &nbsp; [Google docs](https://docs.google.com), [Notion](https://www.notion.so/), [Evernote](https://evernote.com). <br/>
-- #### Usability Testing: 
+
+- #### Usability Testing:
+
 &nbsp; [UserTesting](https://www.usertesting.com/), [Feedback loop](http://feedbackloop.com/), [UserZoom](https://www.userzoom.com/).<br/>
+
 - #### Wireframe & Prototype:  
+
 &nbsp; [Figma](https://www.figma.com/), [Invision](https://invision.com), [Framer](https://www.framer.com/).<br/>
-- #### Video chat/Async Comms: 
+
+- #### Video chat/Async Comms:
+
 &nbsp; [Zoom](https://zoom.us/), [Google Meet](https://gsuite.google.com/products/chat/), [Loom](https://www.loom.com/).<br/>
+
 - #### Product Analytics:  
+
 &nbsp; [Mixpanel](https://mixpanel.com/), [Google Analytics](https://analytics.google.com), [Heap](https://heap.io).<br/>
+
 - #### Surveys: 
+
 &nbsp; [Google Forms](https://www.google.com/forms/about/), [Typeform](https://www.typeform.com/), [Airtable](https://airtable.com/).<br/>
 
 
-
 ### Identify risk - What are the pitfalls? <br/><br/>
+
 Beyond talking to users, you also want to use this period to evaluate if there is a thriving ground for your idea or not. Identifying big risks that need to be tackled during the discovery phase is important as no one wants to invest resources and money in a wasted venture. Some of these risks include:
 
 - Financial risk – can we afford this solution?
@@ -96,6 +113,7 @@ The goal of product discovery is not necessarily to ship features. Rather, it is
 Thanks to [Nifemi Oluboyede](https://www.linkedin.com/in/nifemi-oluboyede-91258861) for reviewing this article.
 
 ## Sources:
+
 1. [Product Discovery Tips by Roman Pichler](https://www.romanpichler.com/blog/product-discovery-tips/)
 2. [Best Practices for Developing a Product Strategy by Deb Liu](https://debliu.substack.com/p/best-practices-for-developing-a-product)
 3. [Product Discovery 101 for Product Managers by Product School](https://productschool.com/blog/product-management-2/product-discovery-101-product-managers/)
