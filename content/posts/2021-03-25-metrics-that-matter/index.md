@@ -7,9 +7,9 @@ excerpt: What is the one metric that matters most to the success of your company
 
 ---
 
-Being able to tell what's working from what is not is crucial in defining the success of a product. This enables product leaders to prioritize plans and initiatives properly. Making a decision on what your success metrics will be is as important as the product discovery phase as there are alot of metrics to track and not clearly defining your success metrics can be misinforming. 
+Being able to tell what's working from what is not is crucial in defining the success of a product. This enables product leaders to prioritize plans and initiatives properly. Making a decision on what your success metrics will be is as important as the product discovery phase as there are a lot of metrics to track and not clearly defining your success metrics can be misinforming. 
 
-Metrics are grading or evaluation systems used to measure the level of success of a product or feature. They vary from those that impact the business directly to the ones that impact customers and the product itself. Product managers are often particular about getting their metrics right as this is how they are able to provide data-driven suggestions and product plans to stakeholders and executives.
+Metrics are grading or evaluation systems used to measure the level of success or failure of a product/feature. They vary from those that impact the business directly to the ones that impact customers and the product itself. Product managers are often particular about getting their metrics right as this is how they are able to provide data-driven suggestions and product plans to stakeholders and executives.
 
 > Metrics makes it easier to earn executives' approval.
 
@@ -27,7 +27,7 @@ Success metrics have an actual impact on the business and provide meaningful ins
 
 It is advisable to maintain a close set of key metrics or top-line metrics. Some organizations utilize the north-star metric (The key measure of success for the product team in a company) which has the ability to adapt to product changes. However, the north-star cannot be isolated as it works alongside other product metrics.
 
-Brian Balfour of Reforge suggests that most products should have 4 high-level metrics. An acquisition metric, retention, engagement, and monetization metric. These 4 act as a system where one can influence the other.
+Brian Balfour of Reforge suggests that most products should have 4 high-level metrics. An acquisition, retention, engagement, and monetization metric. These 4 act as a system where one can influence the other.
 
 In choosing Key metrics, [Shreyas Doshi](https://twitter.com/shreyas) suggests the following criteria:
 
