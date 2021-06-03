@@ -108,3 +108,4 @@ Thanks to [Evans Akanno](https://twitter.com/evansakanno) and [Mudia Imasuen](ht
 
 1. [Understanding gamification: A winning strategy for better user engagement - Appcues](https://www.appcues.com/blog/getting-gamification-right)
 2. [What is gamification - Gamify.com](https://www.gamify.com/what-is-gamification)
+3. [Hero image by Carl Raw](https://unsplash.com/s/photos/game?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
