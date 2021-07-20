@@ -9,6 +9,8 @@ excerpt: Having an idea about a product is not enough. There has to be a motivat
 
 _👋🏾 Hi there, this is the beginning of a product documentation series that I will be sharing in the coming months. Starting with Product Vision, I will also be writing on the product roadmap, product requirement document, go-to-market strategy, and some other important documents often used in product management._
 
+<hr/>
+
 Having an idea about a product is not enough. There has to be a motivation behind the idea that drives you to always want to be successful at it. A product vision inspires you and your team by communicating the purpose of your product to everyone involved in building it; it helps to provide motivation when there's discouragement (as there always will be) and acts as the product's true north star. Product vision also helps to pass across the reason for your product and its ultimate goal succinctly to the users at their first glance at it.
 
 > A product vision is a long-term, overarching plan for your product, with an articulation of how you will get there. Gibson Biddle
@@ -63,7 +65,7 @@ Roman Pichler also suggests that the following questions be answered in crafting
 - Who is competing and how do they perform? (internal, external competitors)
 - What timeframe and product development budget determine the project?
 
-[Here](https://www.romanpichler.com/tools/vision-board/) is Roman Pichler's product vision board that you can leverage.
+You can use Marty Cagan's [product vision FAQ](https://svpg.com/product-vision-faq/) and Roman Pichler's [product vision board](https://www.romanpichler.com/tools/vision-board/) to craft your product vision.
 
 Since product vision is an essential piece in making your product a success, it is important to carefully craft it. A good way to achieve this is not to do it alone or in silos, else you will be the only one who is aligned with the vision while others remain unsure and struggle to share the vision with you. In my experience, I try to make this phase as interactive as possible by involving all team members across all departments to get insight and contributions and to ensure that everyone is aligned to the vision.
 
