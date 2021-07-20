@@ -103,4 +103,4 @@ Thanks to [Seun Runsewe](https://twitter.com/srunsewe) for reviewing this articl
 1. [Hero Image by Jukan Tateisi](https://images.unsplash.com/photo-1502101872923-d48509bff386?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=889&q=80)
 2. [Tips for writing compelling product vision - Roman Pichler](https://www.romanpichler.com/blog/tips-for-writing-compelling-product-vision/)
 3. [Five answers to questions about product - Gibson Biddle](https://askgib.substack.com/p/five-answers-to-questions-about-product)
-4. [Product Vision vs Mission - Sillicon Valley Product Group](https://svpg.com/product-vision-vs-mission/)
+4. [Product Vision vs Product Mission - Sillicon Valley Product Group](https://svpg.com/product-vision-vs-mission/)
