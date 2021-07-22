@@ -69,7 +69,7 @@ _You can use Marty Cagan's [product vision FAQ](https://svpg.com/product-vision-
 
 Since product vision is an essential piece in making your product a success, it is important to carefully craft it. A good way to achieve this is not to do it alone or in silos, else you will be the only one who is aligned with the vision while others remain unsure and struggle to share the vision with you. In my experience, I try to make this phase as interactive as possible by involving all team members across all departments to get insight and contributions and to ensure that everyone is aligned to the vision.
 
-For larger corporations where you cannot involve everyone, it is advised to have the founder(s), executives, and representatives from development, customer support/success, marketing, sales, product, and other teams in the product vision discussion. This helps to get cross-functional opinion and alignment towards the vision as this is essential in keeping everyone motivated and involved in the product development.
+For larger corporations where you cannot involve everyone, it is advised to have the founder(s), executives, and representatives from engineering, customer support/success, marketing, sales, product, and other teams in the product vision discussion. This helps to get cross-functional opinion and alignment towards the vision as this is essential in keeping everyone motivated and involved in the product development.
 
 Beyond keeping key team members in the discussion, you have to keep reminding them of the vision even when the product has been launched and you're iterating because people tend to forget things a lot and start falling out of the scope/goal of the product.
 
@@ -86,7 +86,7 @@ This could be through quarterly product strategy meetings. In fact, you can find
 
 Crafting a compelling product vision that is user-centric and serves as the organization's north star helps to set the tone for an insightful product strategy phase where the company's approach to achieving this overarching goal is planned and strategized.
 
-It is important not to see the product vision phase as one-time but one that should be visited intermittently. It is advised to review it every quarter or year (as the case may be) and create proper alignment and adjustments wherever needed.
+It is important not to see the product vision phase as one-time but one that should be visited regularly. It is advised to review it every quarter or year (as the case may be) and create proper alignment and adjustments wherever needed.
 
 When this phase is well thought out, it makes the product strategy and road mapping stages hassle-free and creates alignment between the company, team members, and the users.
 
