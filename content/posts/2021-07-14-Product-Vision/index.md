@@ -1,7 +1,7 @@
 ---
 title: Product Documentation Series - Product Vision
 author: Damilola Ajiboye
-date: 2021-07-19
+date: 2021-07-21
 hero: ./images/hero.jpg
 excerpt: Having an idea about a product is not enough. There has to be a motivation behind the idea that drives you to always want to be successful.
 
