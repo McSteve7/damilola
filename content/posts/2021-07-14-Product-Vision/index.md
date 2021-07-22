@@ -65,7 +65,7 @@ Roman Pichler also suggests that the following questions be answered in crafting
 - Who is competing and how do they perform? (internal, external competitors)
 - What timeframe and product development budget determine the project?
 
-You can use Marty Cagan's [product vision FAQ](https://svpg.com/product-vision-faq/) and Roman Pichler's [product vision board](https://www.romanpichler.com/tools/vision-board/) to craft your product vision.
+_You can use Marty Cagan's [product vision FAQ](https://svpg.com/product-vision-faq/) and Roman Pichler's [product vision board](https://www.romanpichler.com/tools/vision-board/) to craft your product vision._
 
 Since product vision is an essential piece in making your product a success, it is important to carefully craft it. A good way to achieve this is not to do it alone or in silos, else you will be the only one who is aligned with the vision while others remain unsure and struggle to share the vision with you. In my experience, I try to make this phase as interactive as possible by involving all team members across all departments to get insight and contributions and to ensure that everyone is aligned to the vision.
 
