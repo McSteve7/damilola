@@ -99,7 +99,7 @@ This article first appeared on my [Medium](https://medium.com/@stephenajiboye7/d
 ----
 
 
-## Sources:
+## Resources:
 
 - [Hero Image by Farhan Azam on Unsplash](https://images.unsplash.com/photo-1560094824-13b9bc472f86?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80)
 
