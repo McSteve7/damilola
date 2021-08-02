@@ -104,7 +104,7 @@ _Found this article insightful? Kindly share with others and please, subscribe t
 ---
 Thanks to [Evans Akanno](https://twitter.com/evansakanno) and [Mudia Imasuen](https://twitter.com/imasuen_design) for reading drafts of this.
 
-## Sources:
+## Resources:
 
 1. [Understanding gamification: A winning strategy for better user engagement - Appcues](https://www.appcues.com/blog/getting-gamification-right)
 2. [What is gamification - Gamify.com](https://www.gamify.com/what-is-gamification)
