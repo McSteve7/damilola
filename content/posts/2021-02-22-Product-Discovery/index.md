@@ -112,7 +112,7 @@ The goal of product discovery is not necessarily to ship features. Rather, it is
 
 Thanks to [Nifemi Oluboyede](https://www.linkedin.com/in/nifemi-oluboyede-91258861) for reviewing this article.
 
-## Resources
+## Resources:
 
 1. [Product Discovery Tips by Roman Pichler](https://www.romanpichler.com/blog/product-discovery-tips/)
 2. [Best Practices for Developing a Product Strategy by Deb Liu](https://debliu.substack.com/p/best-practices-for-developing-a-product)
