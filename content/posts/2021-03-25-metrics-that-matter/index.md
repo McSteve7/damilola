@@ -122,7 +122,7 @@ _Found this article insightful? Kindly share with others and please, subscribe t
 
 Thanks to [Eko Adetolani](https://eko-adetolani.medium.com/) for reviewing this.
 
-### SOURCES:
+### Resources:
 
 - [A Primer on Product Metrics by Shreyas Doshi](https://mixpanel.com/blog/shreyas-doshi-product-metrics/)
 - [Every Product Needs a North Star Metric: Here's How to Find Yours](https://blog.amplitude.com/product-north-star-metric)
