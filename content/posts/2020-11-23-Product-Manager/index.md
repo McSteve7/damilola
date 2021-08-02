@@ -60,5 +60,5 @@ Thanks to [Olufisayo Babalola](https://www.linkedin.com/in/olufisayo-babalola/) 
 
 <hr/>
 
-### Sources:
+### Resources:
 - [Hero Image by airfocus on Unsplash](https://unsplash.com/s/photos/product-manager?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
