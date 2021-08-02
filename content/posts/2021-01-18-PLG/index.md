@@ -117,7 +117,7 @@ Thanks to [Praise Mbanali](https://www.linkedin.com/in/praise-mbanali-27229115a/
 
 ---
 
-## Sources:
+## Resources:
 - [Hero Image by Markus Spiske on Unsplash](https://medium.com/r/?url=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Fgrowth%3Futm_source%3Dunsplash%26utm_medium%3Dreferral%26utm_content%3DcreditCopyText)
 
 - [What is product-led growth? by Product-Led Growth CollectiveWhat is product-led growth? by Product-Led Growth Collective](https://www.productled.org/foundations/what-is-product-led-growth#Chap2)
