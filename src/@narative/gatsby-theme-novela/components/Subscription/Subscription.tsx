@@ -43,7 +43,7 @@ const Subscription: React.FC<{}> = () => {
       <SubscriptionContainer>
         <Content>
           <Heading>
-            Musings on building user-centric products directly in your inbox monthly
+            Musings on building user-centric products directly in your inbox once a month.
           </Heading>
           <Text>
           Get notified of new posts as they get published ✨         
