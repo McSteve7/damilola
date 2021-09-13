@@ -1,3 +1,6 @@
+![image](https://user-images.githubusercontent.com/34410515/128337000-de8daab1-0cfa-4e72-b42d-a924f88f4c38.png)
+
+<hr/>
 ✨ I'm a Product Manager passionate about building user-centric products that solve users pain points.
 
 I enjoy coming up with strategies, talking to users, aligning team members to a product idea and building compelling products.
