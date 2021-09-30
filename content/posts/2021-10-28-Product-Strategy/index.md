@@ -1,7 +1,7 @@
 ---
 title: Product Documentation Series - Product Strategy
 author: Damilola Ajiboye
-date: 2021-10-28
+date: 2021-9-28
 hero: ./images/hero.jpg
 excerpt: How to create a compelling product strategy for different stages of a product using an hypothetical grocery delivery platform.
 
