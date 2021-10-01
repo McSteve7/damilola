@@ -53,7 +53,9 @@ For smaller companies or startups with only one product, both the company and pr
 
 According to Marty Cagan, it is important to check these factors while crafting your product vision.
 
+<div className="Image__Small">
  <img src="images/Vision.png" alt="Factors to consider when creating a vision statement"/>
+</div>
  
 <br/><br/>
 
@@ -98,6 +100,8 @@ _Found this article insightful? Kindly share with others and please, subscribe t
 
 ---
 Thanks to [Seun Runsewe](https://twitter.com/srunsewe) for reviewing this article.
+
+---
 
 ## Resources:
 1. [Hero Image by Jukan Tateisi](https://images.unsplash.com/photo-1502101872923-d48509bff386?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=889&q=80)
