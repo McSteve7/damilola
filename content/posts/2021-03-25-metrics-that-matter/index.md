@@ -36,8 +36,9 @@ In choosing Key metrics, [Shreyas Doshi](https://twitter.com/shreyas) suggests t
 - It can be readily tied to business value.
 - It's expected to be long-lasting (at least two to three years).
 
-
+<div className="Image__Medium">
  <img src="images/northstar.png" alt="Examples of company's north-star metrics"></img> 
+</div>
 
 Key Metrics give a great high-angle view of how the product is doing.
 
@@ -83,8 +84,9 @@ These includes:
 ### NPS & CSAT Scores:&nbsp;
 
  Net Promoter Score (NPS) and Customer Satisfaction Score (CSAT) are great ways to measure the sentiments of your users.
-
+<div className="Image__Small">
  <img src="images/nps.png" alt="Net Promoter Scores"/>
+</div>
 
 Your NPS score, in a nutshell, tells you how well your product is loved by users. It helps you segment your users into 3 categories based on how they rate your product out of 10.
 
@@ -120,7 +122,8 @@ _Found this article insightful? Kindly share with others and please, subscribe t
 
 ---
 
-Thanks to [Eko Adetolani](https://eko-adetolani.medium.com/) for reviewing this.
+Thanks to [Eko Adetolani](https://eko-adetolani.medium.com/) for reviewing this article.
+<hr/>
 
 ### Resources:
 
