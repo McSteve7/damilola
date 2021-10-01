@@ -102,7 +102,8 @@ _Found this article insightful? Kindly share with others and please, subscribe t
 
 
 ---
-Thanks to [Evans Akanno](https://twitter.com/evansakanno) and [Mudia Imasuen](https://twitter.com/imasuen_design) for reading drafts of this.
+Thanks to [Evans Akanno](https://twitter.com/evansakanno) and [Mudia Imasuen](https://twitter.com/imasuen_design) for reading drafts of this article.
+<hr/>
 
 ## Resources:
 
