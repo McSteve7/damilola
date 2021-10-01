@@ -22,7 +22,7 @@ While a product vision is a bird's-eye view of where you see the business in the
 Involving your stakeholders in this process creates in them an inclusive and empowered mindset and puts them in a better position to communicate product plans to their reports or users (for user-facing stakeholders) and this eventually creates synergy across the team.
 <br/>
 
-- **Product strategy helps to mitigate risk and create avenue to explore other compliant measures.**
+- **Product strategy helps to mitigate risk and create an avenue to explore other compliant measures.**
 <br/><br/>
 The product strategy goes beyond breaking down the company's approach to achieving its vision. It also includes doing some due diligence and factoring in dependencies. This is why it is important to include cross-functional team members in the stage so that they can help prove and disprove some approaches that may not be compliant. At a product strategy session, these dependencies are quickly spotted and alternative solutions are explored before investing resources and effort into development.
 
@@ -116,13 +116,13 @@ To expatiate this further, I will utilize Gibson Biddle's [GEM (Growth, Engageme
 
 <div className="Image__Small">
 
-<img src="images/GEM.png" alt="Growth, Engagement, and Monetization Product Strategy framework for Byke"/>
+<img src="images/GEM1.png" alt="Growth, Engagement, and Monetization Product Strategy framework for Byke"/>
 
 </div>
 
 <div className="Image__Small">
 
-<img src="images/SMT.png" alt="Strategy, Metric, and Tactics Product strategy framework for Byke"/>
+<img src="images/SMT1.png" alt="Strategy, Metric, and Tactics Product strategy framework for Byke"/>
 
 </div>
 
@@ -158,7 +158,7 @@ In creating your product strategy, you have to first understand the stage that y
 Getting this right at the beginning; highlighting the goals and visions of the company, connecting your initiatives to align with them, and iterating helps to create a compelling strategy that delivers on the product vision and adds value to the business.
 
 ---
-Thanks to [Adebunmi Wellington-Ogunlewe](https://ng.linkedin.com/in/bunmiwellington) and [Lucius Unegbu](https://ng.linkedin.com/in/lucius-unegbu) for reviewing this article.
+Thanks to [Adebunmi Wellington](https://ng.linkedin.com/in/bunmiwellington) and [Lucius Unegbu](https://ng.linkedin.com/in/lucius-unegbu) for reviewing this article.
 
 ---
 ## Credit:
