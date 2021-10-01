@@ -46,11 +46,13 @@ Having a clear audience means you can focus your efforts on their needs first, a
 
 Be flexible with your idea as the product discovery process can either validate or invalidate it. Sometimes, you might have to go back to the drawing board and build something different from your initial idea. This happened to Kevin Systrom who initially built Bourbn (a check-in app) but had to kill it for a photo-sharing feature on the app after discovering that no one was interested in checking in their locations but more people loved the photo-sharing feature which later became Instagram.
 [Enlightened empathy](https://www.fastcompany.com/3023403/how-joe-gerrbia-and-airbnb-conquered-the-trough-of-sorrow-with-enlightened-empat) as described by Joe Gebbia of Airbnb is seeing the world so closely in the shoes of the person you are creating for, that you could see the world the way they see it. With this, you combine the insight gotten with your own-design point of view to create something new.
-
-<figure className="Image__Small">
+<div className="Image__Small">
+<figure>
   <img width="400" height="315" src="images/empathy.png" alt="Enlightened Empathy"/>
   <figcaption>Joe Gebbia on how Airbnb conquered the "Trough of Sorrow" with enlightened empathy (Credit: <a href="fastcompany.com">Fastcompany</a>)</figcaption>
-</figure><br/><br/>
+</figure>
+</div>
+<br/>
 
 Joe and his co-founder Brian Chesky would go from house-to-house in Brooklyn Manhattan part of New York to take pictures of the homes on the site (AirBed and Breakfast). When invited to stay over for coffee, They’d gladly oblige and utilize this period to achieve enlightened empathy with the user. Through this, They were able to see how their perfectly designed interface completely failed when they asked the users to show them how they view listings and calendar on the website and was surprised to see how what they thought would take 2-3 clicks to get done was taking people about 10-12 clicks to complete.
 
@@ -111,6 +113,7 @@ The goal of product discovery is not necessarily to ship features. Rather, it is
 <hr/>
 
 Thanks to [Nifemi Oluboyede](https://www.linkedin.com/in/nifemi-oluboyede-91258861) for reviewing this article.
+<hr/>
 
 ## Resources:
 
