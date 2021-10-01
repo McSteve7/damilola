@@ -37,12 +37,14 @@ While you might not have the luxury to do this, you want to make sure you interv
 
 PLG companies prioritize a short Time To Value (TTV). This means they want users to experience their product as quickly as possible without unnecessary stalling. This is often accomplished by providing a trial account or freemium subscription model rather than prompting users to give their credit card information before getting any value from the product. The latter requires users to take some risk on a product that might not solve their problem. This creates discontent for the user and ultimately leads to churn and bad PR.
 
-
+<div className="Image__Small">
 <figure>
   <img src="images/paywall.png" alt=""/>
   <figcaption>A paywall during headspace user onboarding (Credit: <a>growth.design</a>)</figcaption>
 </figure>
-<br/><br/>
+</div>
+
+<br/>
 
 ### 3. Invest in the product with go-to-market intent
 
@@ -70,11 +72,10 @@ It will interes you to note that PLG is not limited to Business to Consumers (B2
 ## Examples of Product-led companies
 
 [Calendly](https://calendly.com) for instance minimizes friction in their onboarding process and gets the user to try out their product in a few minutes as seen in the slideshow below.
-
 <figure class="video_container" style="text-align: center">
  <iframe width="400" height="315" src="https://www.youtube.com/embed/xROYeThUJ8k" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><figcaption>A short clip showing some PLG practices in Calendly onboarding process. (Switch to full screen for a better view)</figcaption>
 </figure>
-<br/><br/>
+<br/>
 
 The company prioritizes the user's need which is to schedule meetings and did not get in the way with any unnecessary feature, they also kept to their promise of not asking for your credit card details till you're ready to be a paying user. All this is to the end that you the user get your hands on the product seamlessly and get value from it as quickly as possible.
 
@@ -113,7 +114,9 @@ Clearly, PLG is not a "set it" and "forget it" strategy. It is not a quick fix a
 Please, Feel free to share what you think and what your experience has been using PLG. Happy to learn from them.
 <br/>
 
-Thanks to [Praise Mbanali](https://www.linkedin.com/in/praise-mbanali-27229115a/) and [Olabinjo Adeniran](https://www.linkedin.com/in/olabinjo/) for reviewing this article.
+<hr/>
+
+Thanks to [Olabinjo Adeniran](https://www.linkedin.com/in/olabinjo/) and [Praise Mbanali](https://www.linkedin.com/in/praise-mbanali-27229115a/) for reviewing this article.
 
 ---
 
