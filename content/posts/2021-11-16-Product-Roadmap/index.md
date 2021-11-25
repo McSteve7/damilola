@@ -154,6 +154,11 @@ It is important to remember that road mapping is not a once-a-year event but an 
 
 Happy Road-mapping ✨
 
+<hr/>
+
+Thanks to [Laide Olambiwonnu](https://www.linkedin.com/in/laideo/) for reviewing this article.
+
+<hr/>
 
 ### 📚 Additional resources
 
