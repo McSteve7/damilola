@@ -76,7 +76,7 @@ Here's an example:
 
 This type of roadmap helps keep your users and investors informed about what you're building and serves as a feedback loop to hear their thoughts on some of the initiatives you have lined up. 
 
- Some examples of public roadmaps are  [Paystack Commerce Public Roadmap](http://paysatck.com/commerce/roadmap) and [Gatsby Cloud Public Roadmap.](https://portal.gatsbyjs.com/)
+ Some examples of public roadmaps are  [Paystack Commerce Public Roadmap](https://www.notion.so/e71c8bf49edb457fbeaba2cba9143adb) and [Gatsby Cloud Public Roadmap.](https://portal.gatsbyjs.com/)
 
 <div className="Image__Small">
 <figure>
@@ -88,7 +88,7 @@ This type of roadmap helps keep your users and investors informed about what you
 <div className="Image__Small">
 <figure>
   <img src="images/Gatsby.png" alt="GatsbyJS Public Product Roadmap"/>
-  <figcaption><a href="https://portal/gatsbyjs.com"> Gatsby Cloud Public Roadmap </a> </figcaption>
+  <figcaption><a href="https://portal.gatsbyjs.com/"> Gatsby Cloud Public Roadmap </a> </figcaption>
 </figure>
 </div>
 
