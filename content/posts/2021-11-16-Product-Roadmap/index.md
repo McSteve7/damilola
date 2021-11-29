@@ -160,9 +160,6 @@ _Found this article insightful? Kindly share with others and please, subscribe t
 
 <hr/>
 
-Thanks to [Laide Olambiwonnu](https://www.linkedin.com/in/laideo/) for reviewing this article.
-
-<hr/>
 
 ### 📚 Additional resources
 
