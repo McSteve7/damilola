@@ -1,5 +1,5 @@
 ---
-title: My 2021 End of Year Lists
+title: My Top 5 Product Management Resources of 2021
 author: Damilola Ajiboye
 date: 2021-12-30
 hero: ./images/hero.png
