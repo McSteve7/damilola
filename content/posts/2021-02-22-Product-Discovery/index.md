@@ -38,7 +38,10 @@ For instance,  In the earlier days of Lyft, the co-founders didn’t interview e
 
 Creating a friendly ambiance around your users can also be very helpful in driving a meaningful conversation with them. As one trying to solve a particular person’s problem, you want to be “close” enough to the person to establish a perfect ground around the problem. If you were building a solution to help creatives monetize their craft, for instance, amongst other things that you would do, you would want to follow as many on Instagram, Youtube and activate post notification for quick updates.<br/> Establishing this ground does not mean that you have to precariously intrude on the person’s privacy. Showing that you really care about the problem might be a signal for your potential user to open-up for an insightful conversation.
 Having a clear audience means you can focus your efforts on their needs first, and then expand from there. 
->>> Like [Deb Liu](https://www.linkedin.com/in/deborahliu) puts it, “Before you build for the world, win in one market. You can later take the capabilities you built and move to adjacent verticals or experiences”.
+
+Like [Deb Liu](https://www.linkedin.com/in/deborahliu) puts it, 
+
+>>> “Before you build for the world, win in one market. You can later take the capabilities you built and move to adjacent verticals or experiences”.
 
 [Suggested watch: How to talk to users by Y Combinator partner, Eric Migicovsky.](https://www.ycombinator.com/library/6g-how-to-talk-to-users)
 
