@@ -108,7 +108,7 @@ Based on the result of their research, the team is proposing that Byke builds a 
 The embedded PRD below shows the Product team’s first attempt at presenting the idea to stakeholders.
 
 <figure class="video_container" style="text-align: center">
- <iframe src="https://coda.io/embed/jspxQJ6XAt/_sut2b?viewMode=embedplay" width="900" height="500"  allow="fullscreen"></iframe><figcaption>Byke's Product Requirement Document</figcaption>
+ <iframe src="https://coda.io/embed/jspxQJ6XAt/_sut2b?viewMode=embedplay" width="400" height="500"  allow="fullscreen"></iframe><figcaption>Byke's Product Requirement Document</figcaption>
 </figure>
 
 <br/> <br/>
