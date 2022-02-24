@@ -16,6 +16,10 @@ It’s been an eventful and amazing 2021 and this article is a rundown of my mos
 </figure>
 </div>
 
+<!-- <figure class="video_container" style="text-align: center">
+ <iframe src="https://coda.io/embed/jspxQJ6XAt/_sut2b?viewMode=embedplay" width="900" height="500"  allow="fullscreen"></iframe><figcaption>A short clip showing some PLG practices in Calendly onboarding process. (Switch to full screen for a better view)</figcaption>
+</figure> -->
+
 I have been fortunate to have been able to leverage a bunch of resources that have accelerated my learnings in this outgoing year but some of them really stand out and that is why I am sharing them with you.
 
 In no particular order, below is the list of some of the resources that made 2021 worth the while.
