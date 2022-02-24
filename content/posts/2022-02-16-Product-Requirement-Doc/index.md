@@ -3,7 +3,7 @@ title: Product Documentation Series - Product Requirement Document
 author: Damilola Ajiboye
 date: 2022-02-16
 hero: ./images/hero.png
-excerpt: Most projects fail due to a lack of requirement gathering and proper requirement documentation. Here is how you can avoid this pitfall.
+excerpt: Most products fail due to a lack of requirement gathering and proper requirement documentation. Here is how you can avoid this pitfall.
 
 ---
 
