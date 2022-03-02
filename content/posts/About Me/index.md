@@ -10,7 +10,7 @@ slug: /about
 ---
 
 
-Hi, my name is Damilola Ajiboye. I am a Product Manager that is passionate about leveraging technology to solve people's problems. So you won't be surpised if I tell you that I enjoy listening to people talk to me about their problems, understanding the problems and brainstorming how technology can be leveraged to solve the problems.
+Hi, my name is Damilola Ajiboye. I am a Product Manager that is passionate about leveraging technology to solve people's problems. So you won't be surprised if I tell you that I enjoy listening to people talk to me about their problems, understanding the problems and brainstorming how technology can be leveraged to solve the problems.
 
 Prior to product management, I have some experience in Digital Marketing, Web Design and Development, User Interface Design, and Sales where I've helped businesses of various sizes and across different industries to provide amazing experiences to their users and also drive growth. 
 
