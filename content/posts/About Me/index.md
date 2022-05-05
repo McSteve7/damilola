@@ -19,7 +19,7 @@ I am passionate about the startup and tech ecosystem and enjoy volunteering in b
 In the past, I've volunteered with [Visible Hands Venture Capital](https://www.visiblehands.vc/) as Product Evaluator for the [Visible Hand Fellowship](https://www.visiblehands.vc/fellowship) selection process.
 
 
-🚀 Lately, I've developed much interest in the Developer Tooling and Experience space. I'm especially fascinated by how these amazing products help technical teams become more productive and focus on building user-centric products. Other space that I am reading about are Decentralized Finance (DeFi), web3, NFT and their potential to drive economic opportunities and financial inclusion for Africans.
+🚀 Lately, I've developed much interest in the Developer Tooling and Experience space. I'm especially fascinated by how these amazing products help technical teams become more productive and focus on building user-centric products. Other spaces that I am reading about are Decentralized Finance (DeFi), web3, NFT, Play to earn gaming and their potential to drive economic opportunities and financial inclusion for emerging markets.
 
 
 🏠: I'm based in Lagos, Nigeria 🇳🇬.
