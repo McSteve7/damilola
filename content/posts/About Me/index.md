@@ -26,6 +26,7 @@ I am also passionate about Decentralized Finance (DeFi), Web3, NFT, Play to earn
 
 🏠: I'm based in Lagos, Nigeria 🇳🇬.
 <br/>
+
 👋🏾: [Say Hello](https://www.damilolaa.xyz/authors/damilola-ajiboye)
 
 <hr/>
