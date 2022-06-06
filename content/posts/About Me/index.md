@@ -12,9 +12,9 @@ slug: /about
 
 Hi, my name is Damilola Ajiboye. I am a Product Manager that is passionate about leveraging technology to solve people's problems. So, you won't be surprised if I tell you that I enjoy listening to people talk to me about their problems, then understanding the problems and brainstorming how technology can be leveraged to solve them.
 
-Prior to product management, I have worked in Digital Marketing, Web Design Web Development, User Interface Design, and Sales where I've helped businesses of various sizes and across different industries to provide amazing experiences to their users and also drive growth. 
+Prior to product management, I have worked in Digital Marketing, Web Design, Web Development, User Interface Design, and Sales where I've helped businesses of various sizes and across different industries to provide amazing experiences to their users and also drive growth. 
 
-I am passionate about the startup and tech ecosystem and enjoy volunteering in building communities that are reducing the barrier to entry to tech. I currently volunteer with the [Black Product Managers Network](https://www.blackproductmanagers.com/) and [Web3 PMs](https://web3pms.substack.com/) where we help passionate individuals get into Product Management and help existing Product Managers level-up their PM journey by creating enabling infrastructures that to supercharge their career journey. 
+I am passionate about the startup and tech ecosystem and enjoy volunteering in building communities that are reducing the barrier to entry to tech. I currently volunteer with the [Black Product Managers Network](https://www.blackproductmanagers.com/) and [Web3 PMs](https://web3pms.substack.com/) where we help passionate individuals get into Product Management and help existing Product Managers level-up their PM journey by creating enabling infrastructures that supercharges their career journey. 
 
 In the past, I've volunteered with [Visible Hands Venture Capital](https://www.visiblehands.vc/) as Product Evaluator for the [Visible Hand Fellowship](https://www.visiblehands.vc/fellowship) selection process.
 
@@ -25,6 +25,8 @@ I am also passionate about Decentralized Finance (DeFi), Web3, NFT, Play to earn
 
 
 🏠: I'm based in Lagos, Nigeria 🇳🇬.
+👋🏾: [Say Hello](https://www.damilolaa.xyz/authors/damilola-ajiboye)
+
 <hr/>
 
 <!-- Hi, my name is Damilola Ajiboye. I’m a Product Manager passionate about building user-centric products.
