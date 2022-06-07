@@ -21,7 +21,7 @@ In the past, I've volunteered with [Visible Hands Venture Capital](https://www.v
 
 🚀 Lately, I've developed much interest in the Developer Tooling and Experience space. I'm especially fascinated by how these amazing products help technical teams become more productive and help them focus on building user-centric products. 
 
-I am also passionate about Decentralized Finance (DeFi), Web3, NFT, Play to earn (P2E) gaming and their potentials to drive economic opportunities and financial inclusion for emerging markets.
+I am also passionate about Decentralized Finance (DeFi), Web3, NFT, Play to earn (P2E) gaming and their potential to drive economic opportunities and financial inclusion for emerging markets.
 
 
 🏠: I'm based in Lagos, Nigeria 🇳🇬.
