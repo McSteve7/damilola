@@ -25,7 +25,7 @@ Likewise, if you’re a fintech company, your technical product manager will hav
 
 <div className="Image__Medium">
 <figure>
-  <img src="images/tpm.png" alt="Paystack Commerce Public Product Roadmap"/>
+  <img src="images/tpm.png" alt="Distinctions in two TPM roles requirement in a company."/>
   <figcaption> Distinctions in two TPM roles requirement in a company. Source:<a href="https://www.lifeatspotify.com/jobs" target="_blank"> Spotify career page </a> </figcaption>
 </figure>
 </div>
@@ -83,15 +83,12 @@ It is no news that being technical comes alongside some very good benefits. This
 
 TPMs in big tech companies get higher pay and benefits than their PM counterparts and a typical career ladder of TPM at Google, Meta, and Amazon will follow the same pattern as their PM counterpart as listed below:
 
-| Level | Title |
-| --- | --- |
-| L3 | APM |
-| L4 | Product Manager I |
-| L5 | Product Manager II |
-| L6 | Senior Product Manager |
-| L7 | Principal Product Manager / Group Product Manager / Sr. Manager Product Management. |
-| L7.5 | Group Product Manager |
-| L8 | Director of Product Management |
+<div className="Image__Medium">
+<figure>
+  <img src="images/frame.png" alt="PM career ladder"/>
+  <figcaption> PM career ladder </figcaption>
+</figure>
+</div>
 
 ### 🤔 Should I Make the Switch from PM to TPM? 
 
