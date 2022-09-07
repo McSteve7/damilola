@@ -48,7 +48,7 @@ While a traditional Product Manager *might not* be required to code on the job, 
 - What tech stacks are our products sitting on?
 - What is a pull request?
 - What does it mean to merge a pull request?
-- What kind of deployment process do we use? **
+- What kind of deployment process do we use? 
 
 This is only a fraction of the list of technical jargon that a PM needs to know and understand. Since the engineering team is a major stakeholder, it is essential that the PM understands their language and is always able to create alignment with them. This trait shouldn’t be limited to Technical Product Managers only.
 
