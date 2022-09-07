@@ -7,8 +7,6 @@ excerpt: Technical Product Managers are not primarily ex-software engineers, the
 
 ---
 
-# Who really is a technical product manager?
-
 Per Google Trends, search queries for “Technical Product Manager (TPM)” has been on the rise in the past few years. This trend can be attributed to the increased demand for this role due to the advent of new technology innovations like Web3, FinTech, and Data Infrastructure, it could also be attributed to the scalability difficulties that companies face as they enter into new markets and struggle to effectively manage internal technical teams, and most likely the attractive compensation package for the role. 
 
 About 2000+ Technical Product Manager roles in the US with salaries ranging from $64K - $163K were listed on [Glassdoor](https://www.glassdoor.com/Job/united-states-technical-product-manager-jobs-SRCH_IL.0,13_IN1_KO14,39.htm?fromAge=30) between July and August 2022. With this increasing spotlight on TPM role and the few resources available to dissect the role properly, this article is my attempt to shed some light on who a technical product manager is, and how the role is synonymous with and differs from the generalist product manager role and how PMs can make the pivot should they find it interesting.
