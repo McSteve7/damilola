@@ -13,7 +13,7 @@ About 2000+ Technical Product Manager roles in the US with salaries ranging from
 
 So, let’s start with the word “technical”.
 
-### ⌨️ **What does being technical really mean as a PM?** 
+### ⌨️ **What does it mean to be technical as a PM?** 
 
 The first thing to point out is that being technical does not primarily mean the ability to write code or perform other strenuous tasks (like centering a div 😉) that software engineers do. In the real sense, it is more related to domain expertise in one’s product industry.
 
