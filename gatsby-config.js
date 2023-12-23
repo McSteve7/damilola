@@ -24,7 +24,7 @@ module.exports = {
       },
       {
         name: `dribbble`,
-        url: `https://dribbble.com/DamilolaA`,
+        url: `https://dribbble.com/DamilolaA/likes`,
       },
     ],
   },
