@@ -46,7 +46,9 @@ They have a [startup program](https://mixpanel.com/startups-apply/) that provide
   <iframe src="https://www.youtube.com/watch?v=xGcQl4jTIXQ" frameborder="0" allowfullscreen="allowfullscreen"> </iframe>
 </div>
 
+<div class="iframe_container">
 <iframe width="560" height="315" src="https://www.youtube.com/watch?v=xGcQl4jTIXQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
 ### Hotjar
 
