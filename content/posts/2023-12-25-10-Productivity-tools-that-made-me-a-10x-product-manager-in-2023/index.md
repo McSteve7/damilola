@@ -42,6 +42,12 @@ They have a [startup program](https://mixpanel.com/startups-apply/) that provide
  <iframe width="400" height="315" src="https://www.youtube.com/watch?v=xGcQl4jTIXQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><figcaption>Microsoft Clarity</figcaption>
 </figure>
 
+<div class="iframe_container">
+  <iframe src="https://www.youtube.com/watch?v=xGcQl4jTIXQ" frameborder="0" allowfullscreen="allowfullscreen"> </iframe>
+</div>
+
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=xGcQl4jTIXQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ### Hotjar
 
 [Hotjar](https://www.hotjar.com/) also offers features like heatmaps, session recording, conversion funnels, and feedback polls/surveys. While I would use Microsoft Clarity for session recordings and heatmaps, Hotjar is effective in creating feedback polls and surveys for in-product feedback loops. 
