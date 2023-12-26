@@ -90,7 +90,7 @@ Driving alignment is one of a product manager’s core attributes, and oftentime
 [Grammarly AI](https://www.grammarly.com/ai) helps me to improve my writing by checking the grammar, spelling, punctuation, and style. I also like the fact that it works across multiple text editors like Google Docs, Notion, Click up, Confluence, etc.
 
 <figure class="video_container" style="text-align: center">
- <iframe width="400" height="315" src="https://static-web.grammarly.com/1e6ajr2k4140/2Amf2lp4rfGSRz2MrWaQoc/6525cf95592764b14cf88a32ea3ff7e2/COMPILATION_V9_V1.mp4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ <iframe width="400" height="315" src="https://www.youtube.com/embed/doTMUdBBq7A?si=xq6HZbtv_fNwT6yV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </figure>
 
 ### Krisp AI
