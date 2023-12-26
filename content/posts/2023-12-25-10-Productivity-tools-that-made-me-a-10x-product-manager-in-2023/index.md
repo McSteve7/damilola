@@ -7,7 +7,7 @@ excerpt: These tools include product analytics solutions for seamless metric eva
 
 ---
 
-2023 was a very eventful year for me as a product manager. I began the year leading the development of Stears Elections, Nigeria’s first real-time elections portal that allowed millions worldwide to follow Africa’s most prominent democratic process. Midway through the year, I led efforts to improve user engagement and retention. By the end of the year, I collaborated with cross-functional stakeholders to define and craft the next iteration of the Stears product.
+2023 was a very eventful year for me as a product manager. I began the year leading the development of [Stears Elections](https://stears.co/elections), Nigeria’s first real-time elections portal that allowed millions worldwide to follow Africa’s most prominent democratic process. Midway through the year, I led efforts to improve user engagement and retention. By the end of the year, I collaborated with cross-functional stakeholders to define and craft the next iteration of the Stears product.
 
 I’ve grown from a product manager shipping products used by a few hundred users to products used by hundreds of thousands of users globally. I am grateful to have worked with such an amazing team who make striving for success easy. My efficiency this past year is also a testament to the tools that have improved my productivity.
 
@@ -72,7 +72,7 @@ Tango *automagically* creates how-to guides for you as you are using the product
 
 [Bubbles](https://www.usebubbles.com) is an asynchronous video collaboration tool that offers key features like visual process mapping, screen recording, and note-taking. I use it primarily for screen recording, which often comes in handy during product reviews and quality assurance testing of new features or enhancements. 
 
-Bubbles makes it seamless to share constructive feedback with the development team on their implementations, thereby reducing the urge to have multiple *quick huddles* for alignment. 
+Bubbles make it seamless to share constructive feedback with the development team on their implementations, thereby reducing the urge to have multiple *quick huddles* for alignment. 
 
 <div className="Image__Small">
 <figure>
@@ -87,7 +87,7 @@ Driving alignment is one of a product manager’s core attributes, and oftentime
 
 ### Grammarly AI
 
-[Grammarly AI](https://www.grammarly.com/ai) helps me to improve my writing by checking the grammar, spelling, punctuation, and style. I also like the fact that it works across multiple text editors like Google Docs, Notion, Click up, Confluence, etc.
+[Grammarly AI](https://www.grammarly.com/ai) helps me to improve my writing by checking the grammar, spelling, punctuation, and style. I also like the fact that it works across multiple text editors like Google Docs, Notion, Click Up, Confluence, etc.
 
 <figure class="video_container" style="text-align: center">
  <iframe width="400" height="315" src="https://www.youtube.com/embed/doTMUdBBq7A?si=xq6HZbtv_fNwT6yV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
