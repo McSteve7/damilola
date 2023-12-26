@@ -150,7 +150,7 @@ Product managers are involved in all stages of the product lifecycle, including 
 
 ### Lightshot
 
-This is probably my most used tool this year. [Lightshot](https://app.prntscr.com/) is a browser extension that helps users easily take screenshots of webpages, annotate them, and share them as PDFs or images. Like Bubble, Lightshot makes it seamless to communicate bugs and opportunities for improvements to the team.
+This is probably my most used tool this year. [Lightshot](https://app.prntscr.com/) is a browser extension that helps users easily take screenshots of webpages, annotate them, and share them as PDFs or images. Like Bubbles, Lightshot makes it seamless to communicate bugs and opportunities for improvements to the team.
 
 <div className="Image__Small">
 <figure>
@@ -159,7 +159,7 @@ This is probably my most used tool this year. [Lightshot](https://app.prntscr.co
 </figure>
 </div>
 
-## Conclusion
+<hr/>
 
 As a product manager, it's easy to get bogged down in the day-to-day tasks that come with the job and this can prevent you from fulfilling the core responsibilities of understanding user’s pain points and guiding the company to make the right product decisions. By automating or minimizing these mundane activities, PMs can free up more time to focus on what matters most.
 
