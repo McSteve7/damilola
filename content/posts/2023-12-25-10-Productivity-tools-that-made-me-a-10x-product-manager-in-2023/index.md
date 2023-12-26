@@ -1,5 +1,5 @@
 ---
-title: 10 Productivity tools that made me a 10x product manager in 2023
+title: 10 productivity tools that made me a 10x product manager in 2023
 author: Damilola Ajiboye
 date: 2023-12-25
 hero: ./images/hero.png 
