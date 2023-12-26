@@ -77,7 +77,6 @@ Bubbles make it seamless to share constructive feedback with the development tea
 <div className="Image__Small">
 <figure>
   <img src="images/bubbles.png" alt="Bubbles"/>
-  <figcaption>Bubbles</figcaption>
 </figure>
 </div>
 
@@ -120,7 +119,6 @@ This includes design tools, presentation tools, road mapping and project managem
 <div className="Image__Small">
 <figure>
   <img src="images/community.png" alt="Figma Community"/>
-  <figcaption>Figma Community</figcaption>
 </figure>
 </div>
 
@@ -155,7 +153,6 @@ This is probably my most used tool this year. [Lightshot](https://app.prntscr.co
 <div className="Image__Small">
 <figure>
   <img src="images/lightshot.png" alt="Lightshot"/>
-  <figcaption>Lightshot</figcaption>
 </figure>
 </div>
 
