@@ -7,9 +7,9 @@ excerpt: These tools include product analytics solutions for seamless metric eva
 
 ---
 
-2023 was a very eventful year for me as a product manager. I began the year leading the development of Stears Elections, Nigeria’s first real-time elections portal. Midway through the year, I led efforts to improve discoverability. By the end of the year, I collaborated with cross-functional stakeholders to define and craft the next iteration of Stears. 
+2023 was a very eventful year for me as a product manager. I began the year leading the development of Stears Elections, Nigeria’s first real-time elections portal that allowed millions worldwide to follow Africa’s most prominent democratic process. Midway through the year, I led efforts to improve user engagement and retention. By the end of the year, I collaborated with cross-functional stakeholders to define and craft the next iteration of the Stears product.
 
-I’ve grown from a product manager shipping products used by a few hundred users to products used by hundreds of thousands of users globally. I am grateful to have worked with such an amazing team who make striving for success easy. My efficiency this past year is also a testament to the tools that have improved my productivity, and I will share some of them in this article with a few use cases where I’ve employed them.
+I’ve grown from a product manager shipping products used by a few hundred users to products used by hundreds of thousands of users globally. I am grateful to have worked with such an amazing team who make striving for success easy. My efficiency this past year is also a testament to the tools that have improved my productivity.
 
 These tools cut across product analytics solutions that make metrics evaluation seamless, collaboration tools that supercharge cross-functional alignments, and productivity tools that automate mundane tasks that would have cost me hours and days.
 
