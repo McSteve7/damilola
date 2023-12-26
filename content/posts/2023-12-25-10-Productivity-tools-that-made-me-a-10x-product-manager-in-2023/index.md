@@ -161,6 +161,6 @@ This is probably my most used tool this year. [Lightshot](https://app.prntscr.co
 
 ## Conclusion
 
-In conclusion, these tools have been essential to my growth as a product manager over the past year. They have enabled me to prioritize strategic decisions, conduct user research, and spend less time on mundane tasks.
+As a product manager, it's easy to get bogged down in the day-to-day tasks that come with the job and this can prevent you from fulfilling the core responsibilities of understanding user’s pain points and guiding the company to make the right product decisions. By automating or minimizing these mundane activities, PMs can free up more time to focus on what matters most.
 
-I hope you find them helpful!
+These tools have been essential to my growth as a product manager over the past year and I hope you find them helpful too.
