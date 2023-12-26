@@ -39,7 +39,7 @@ They have a [startup program](https://mixpanel.com/startups-apply/) that provide
 [Microsoft Clarity](https://clarity.microsoft.com/) offers session recording, heatmaps, and insights. These features help product teams understand user behaviour, identify areas for improvement, and make data-driven decisions to enhance their products. The unique advantage of Microsoft Clarity is that it works with mobile apps and is free to use, making it a cost-effective alternative to Hotjar for gaining valuable user behaviour insights. 
 
 <figure class="video_container" style="text-align: center">
- <iframe width="400" height="315" src="https://www.youtube.com/watch?v=KvhA1_66PSs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ <iframe width="400" height="315" src="https://www.youtube.com/embed/KvhA1_66PSs?si=1JeufhY7Kr7Ud4jq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </figure>
 
 
