@@ -29,7 +29,7 @@ Examples of the tools that provide answers to these questions are:
 [Mixpanel](https://mixpanel.com/) offers key features for product teams, including event tracking, funnel analysis, retention analysis, user segmentation, A/B testing, and real-time data tracking. These features empower product teams to understand user engagement, optimize user journeys, improve retention, personalize messaging, make data-driven decisions, and quickly address issues or opportunities. 
 
 <figure class="video_container" style="text-align: center">
- <iframe width="400" height="315" src="https://youtu.be/MfXHpfVT5Mg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ <iframe width="400" height="315" src="https://cdn.mxpnl.com/marketing-site/static/video/dashboard-demo-opt-4k.mp4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </figure>
 
 They have a [startup program](https://mixpanel.com/startups-apply/) that provides eligible startups with up to $50,000 Mixpanel credit for a year.
@@ -39,7 +39,7 @@ They have a [startup program](https://mixpanel.com/startups-apply/) that provide
 [Microsoft Clarity](https://clarity.microsoft.com/) offers session recording, heatmaps, and insights. These features help product teams understand user behaviour, identify areas for improvement, and make data-driven decisions to enhance their products. The unique advantage of Microsoft Clarity is that it works with mobile apps and is free to use, making it a cost-effective alternative to Hotjar for gaining valuable user behaviour insights. 
 
 <figure class="video_container" style="text-align: center">
- <iframe width="400" height="315" src="https://youtu.be/7YKs-01Bf_4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+ <iframe width="400" height="315" src="https://www.youtube.com/embed/KvhA1_66PSs?si=1JeufhY7Kr7Ud4jq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </figure>
 
 
@@ -110,7 +110,7 @@ This includes design tools, presentation tools, road mapping and project managem
 [Figjam](https://www.figma.com/figjam/) is an online collaborative whiteboard that has helped me communicate rough sketches of my vision for different features to design stakeholders and get their feedback and alignment. It also helps me in bringing product, design, and engineering stakeholders together to brainstorm the end-to-end lifecycle of a feature in a couple of minutes.
 
 <figure class="video_container" style="text-align: center">
- <iframe width="400" height="315" src="https://youtu.be/axDzyLEfYgU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ <iframe width="400" height="315" src="https://player.vimeo.com/video/795742013" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </figure>
 
 [Figma Community](https://www.figma.com/community) has been my main source of inspiration for new wireframes or designs. While a product manager is not tasked with product design, he needs to be able to communicate his ideas and vision visually, and Figma Community has bridged that learning gap by providing multiple open-source templates that amateur designers like myself can jumpstart with.
@@ -143,7 +143,7 @@ Two years ago, I would have disagreed that I could ever advocate for a Jira comp
 Product managers are involved in all stages of the product lifecycle, including product launch, where they support Marketing teams to refine the best messaging that resonates with the user’s needs. [Veed.io](http://veed.io/) is a tool that simplifies this process by simplifying the video creation and editing process through captioning and subtitling capabilities. Veed.io also provides a number of AI features that allow users to create videos based on certain prompts.
 
 <figure class="video_container" style="text-align: center">
- <iframe width="400" height="315" src="https://youtu.be/nI9qyjWTwu0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ <iframe width="400" height="315" src="https://cdn-site-assets.veed.io/VEED_Online_Video_Editor_1b15b15318/VEED_Online_Video_Editor_1b15b15318.mp4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </figure>
 
 ### Lightshot
