@@ -143,7 +143,7 @@ Two years ago, I would have disagreed that I could ever advocate for a Jira comp
 Product managers are involved in all stages of the product lifecycle, including product launch, where they support Marketing teams to refine the best messaging that resonates with the user’s needs. [Veed.io](http://veed.io/) is a tool that simplifies this process by simplifying the video creation and editing process through captioning and subtitling capabilities. Veed.io also provides a number of AI features that allow users to create videos based on certain prompts.
 
 <figure class="video_container" style="text-align: center">
- <iframe width="400" height="315" src="hhttps://youtu.be/nI9qyjWTwu0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ <iframe width="400" height="315" src="https://youtu.be/nI9qyjWTwu0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </figure>
 
 ### Lightshot
