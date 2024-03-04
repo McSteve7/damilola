@@ -2,7 +2,7 @@
 title: What you should know about Product-Market Fit.
 author: Damilola Ajiboye
 date: 2024-03-02
-hero: ./images/hero.png 
+hero: ./images/hero-min.png 
 excerpt: A comprehensive guide to understanding Product-Market Fit.
 
 ---
