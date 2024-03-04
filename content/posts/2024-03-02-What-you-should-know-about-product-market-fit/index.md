@@ -13,9 +13,8 @@ excerpt: A comprehensive guide to understanding Product-Market Fit.
 
 *Also,*
 
-> *“You can always feel when product/market fit is **not** happening. The customers aren't quite getting value out of the product, word of mouth isn't spreading, usage isn't growing that fast, press reviews are kind of ‘blah,’ the sales cycle takes too long, and lots of deals never close. 
-
-                                                                                                                             **Marc Andreessen***
+> “You can always feel when product/market fit is **not** happening. The customers aren't quite getting value out of the product, word of mouth isn't spreading, usage isn't growing that fast, press reviews are kind of ‘blah,’ the sales cycle takes too long, and lots of deals never close -
+**Marc Andreessen***
 > 
 
 ## What is Product/Market Fit
@@ -56,9 +55,8 @@ For instance, it took Netflix 18 months to attain PMF, while Amplitude took 4 ye
 
 When a product is early into the market, there isn’t sufficient need for it yet to make users want to pay for it. As a result, companies get turned down by investors when their products are ahead of their time.
 
-[https://images.app.goo.gl/Tf5eroZVaLdDm3eS6](https://images.app.goo.gl/Tf5eroZVaLdDm3eS6)
 
-**Here are some basic gems to bote in positioning your company for PMF**
+**Here are some basic gems to note in order to position your company for PMF**
 
 ### **1. Understand your market**
 
@@ -115,6 +113,7 @@ Once you've identified your success metric, you should monitor the number of use
   <img src="images/image.png" alt="Product Engagement Curve"/>
 </figure>
 </div>
+
 ### **2. Evaluating PMF from qualitative user feedback**
 
 Sean Elis’s leading [indicator](https://www.startup-marketing.com/the-startup-pyramid/) of measuring PMF is a response to the survey question, **“How would you feel if you could no longer use the product?”.** The number of users who respond **“very disappointed”** to this question ****is an indicator of the power users. ****
