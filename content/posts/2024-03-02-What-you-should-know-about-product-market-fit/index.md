@@ -7,6 +7,7 @@ excerpt: A comprehensive guide to understanding Product-Market Fit.
 
 ---
 
+<hr/>
 
 <div className="Image__Small">
 <figure>
