@@ -74,10 +74,10 @@ The aim of understanding your users is to know what pain points they have and if
 
 Some key insights to unlock in this process include:
 
-- “How much of a problem is this to them?”
-- “How are they currently solving this problem?”
-- “Is this solution sufficient for them?”
-- “Is this problem ephemeral or a huge part of their life”?
+- How much of a problem is this to them?
+- How are they currently solving this problem?
+- Is this solution sufficient for them?
+- Is this problem ephemeral or a huge part of their life?
 
 Answering these questions will give you a better sense of how your product will fit in your target users’ lives. If it only fills an ephemeral part of their lives, then your product may not achieve PMF or lose it afterward because there won’t be stickiness in your product interactions with its users.
 
@@ -137,7 +137,7 @@ While the most [common reasons](https://www.cbinsights.com/research/report/start
 > “Product/market fit isn’t a one-time, discrete point in time that announces itself with trumpet fanfares. Competitors arrive, markets segment and evolve, and stuff happens—all of which often make it hard to know you’re headed in the right direction before jamming down on the accelerator.” — [Ben Horowitz](https://blog.pmarca.com/2010/03/20/the-revenge-of-the-fat-guy/)
 > 
 
-While the majority of this article is on how to attain product/market fit. It is important to note that the job is not done when that has been achieved because PMF can be lost. It is surprising to see that some of the tech giants that once dominated the industries, like Yahoo, MySpace, and Netscape, have lost their prominence in the industry. One of the primary reasons for this is due to the ever-changing nature of user behavior and needs. As users' preferences and expectations continue to evolve, companies that fail to adapt quickly are inevitably replaced by those who can better meet the demands of the market.
+While the majority of this article is on how to attain product/market fit. It is important to note that the job is not done when that has been achieved because PMF can be lost. It is surprising to see that some of the tech giants that once dominated the industry, like Yahoo, MySpace, and Netscape, have lost their prominence. One of the primary reasons for this is due to the ever-changing nature of user behavior and needs. As users' preferences and expectations continue to evolve, companies that fail to adapt quickly are inevitably replaced by those who can better meet the demands of the market.
 
 With colossal competition across every sphere of technology today, users have more options than ever before and are more likely to switch sides easily. This makes it easy for companies to lose product/market fit.
 
