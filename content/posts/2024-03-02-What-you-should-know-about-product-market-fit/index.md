@@ -8,14 +8,11 @@ excerpt: A comprehensive guide to understanding Product-Market Fit.
 ---
 
 
-> “You can always feel product/market fit when it **is** happening. The customers are buying the product just as fast as you can make it — or usage is growing just as fast as you can add more servers. Money from customers is piling up in your company checking account. You're hiring sales and customer support staff as fast as you can. Reporters are calling because they've heard about your hot new thing and they want to talk to you about it. You start getting entrepreneur of the year awards from Harvard Business School. Investment bankers are staking out your house.”*
-> 
-
-*Also,*
-
-> “You can always feel when product/market fit is **not** happening. The customers aren't quite getting value out of the product, word of mouth isn't spreading, usage isn't growing that fast, press reviews are kind of ‘blah,’ the sales cycle takes too long, and lots of deals never close -
-**Marc Andreessen***
-> 
+<div className="Image__Small">
+<figure>
+  <img src="images/quote.png" alt="Marc Andreessen PMF quotes"/>
+</figure>
+</div>
 
 ## What is Product/Market Fit
 
