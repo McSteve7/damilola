@@ -90,10 +90,7 @@ This is the holy grail of PMF - when you know that your product is engraved in y
 
 ## How to recognize Product/Market Fit when it starts happening.
 
-> *You know you have PMF when your customers become raving advocates for you.*
-> 
-
-***Andy Rachleff, Professor of PMF at Stanford.***
+> *"You know you have PMF when your customers become raving advocates for you."* Andy Rachleff, Professor of PMF at Stanford.***
 
 In this article, I explored two ways of measuring PMF. Firstly, through a product engagement curve and through qualitative user feedback. 
 
@@ -113,7 +110,7 @@ Once you've identified your success metric, you should monitor the number of use
 
 ### **2. Evaluating PMF from qualitative user feedback**
 
-Sean Elis’s leading [indicator](https://www.startup-marketing.com/the-startup-pyramid/) of measuring PMF is a response to the survey question, **“How would you feel if you could no longer use the product?”.** The number of users who respond **“very disappointed”** to this question ****is an indicator of the power users. ****
+Sean Elis’s leading [indicator](https://www.startup-marketing.com/the-startup-pyramid/) of measuring PMF is a response to the survey question, **“How would you feel if you could no longer use the product?”.** The number of users who respond **“very disappointed”** to this question is an indicator of the power users. 
 
 After benchmarking nearly a hundred startups with his [customer development survey](https://pmfsurvey.com/), Ellis found that the magic number to aim for was **40%** of the total respondents. Companies that struggled to find growth almost always had less than **40%** of users respond “very disappointed,” whereas companies with strong traction almost always exceeded that threshold. 
 
@@ -140,7 +137,7 @@ While the majority of this article is on how to attain product/market fit, it is
 
 With colossal competition across every sphere of technology today, users have more options than ever before and are more likely to switch sides easily. This makes it easy for companies to lose product/market fit.
 
-> *Instead of thinking about product/market fit as a definitive point on the startup path, I think about it as a series of tests and checkpoints that increase in difficulty but also in definitiveness. - Brian Balfour*
+> *"Instead of thinking about product/market fit as a definitive point on the startup path, I think about it as a series of tests and checkpoints that increase in difficulty but also in definitiveness. - Brian Balfour"*
 > 
 
 ---
