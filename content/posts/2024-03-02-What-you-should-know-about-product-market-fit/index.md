@@ -90,7 +90,8 @@ This is the holy grail of PMF - when you know that your product is engraved in y
 
 ## How to recognize Product/Market Fit when it starts happening.
 
-> *"You know you have PMF when your customers become raving advocates for you."* Andy Rachleff, Professor of PMF at Stanford.***
+> *"You know you have PMF when your customers become raving advocates for you."* 
+- Andy Rachleff, Professor of PMF at Stanford.
 
 In this article, I explored two ways of measuring PMF. Firstly, through a product engagement curve and through qualitative user feedback. 
 
@@ -130,14 +131,16 @@ While the most [common reasons](https://www.cbinsights.com/research/report/start
 
 ## Conclusion
 
-> “Product/market fit isn’t a one-time, discrete point in time that announces itself with trumpet fanfares. Competitors arrive, markets segment and evolve, and stuff happens—all of which often make it hard to know you’re headed in the right direction before jamming down on the accelerator.” — [Ben Horowitz](https://blog.pmarca.com/2010/03/20/the-revenge-of-the-fat-guy/)
+> “Product/market fit isn’t a one-time, discrete point in time that announces itself with trumpet fanfares. Competitors arrive, markets segment and evolve, and stuff happens—all of which often make it hard to know you’re headed in the right direction before jamming down on the accelerator.” 
+— [Ben Horowitz](https://blog.pmarca.com/2010/03/20/the-revenge-of-the-fat-guy/)
 > 
 
-While the majority of this article is on how to attain product/market fit, it is important to note that the job is not done when that has been achieved because PMF can be lost. It is not surprising to see some of the tech giants like Yahoo, MySpace, and Netscape that once dominated the industry lose their prominence. One of the primary reasons for this change is that these companies struggled to match the ever-changing nature of users' behavior and needs. As users' preferences and expectations continue to evolve, companies that fail to adapt quickly are inevitably replaced by those who can better meet the demands of the market.
+While the majority of this article is on how to attain product/market fit, it is important to note that the job is not done when PMF has been attained because it can be lost. It is not surprising to see some of the tech giants like Yahoo, MySpace, and Netscape that once dominated the industry lose their prominence. One of the primary reasons for this change is that these companies struggled to match the ever-changing nature of users' behavior and needs. As users' preferences and expectations continue to evolve, companies that fail to adapt quickly are inevitably replaced by those who can better meet the demands of the market.
 
 With colossal competition across every sphere of technology today, users have more options than ever before and are more likely to switch sides easily. This makes it easy for companies to lose product/market fit.
 
-> *"Instead of thinking about product/market fit as a definitive point on the startup path, I think about it as a series of tests and checkpoints that increase in difficulty but also in definitiveness. - Brian Balfour"*
+> *"Instead of thinking about product/market fit as a definitive point on the startup path, I think about it as a series of tests and checkpoints that increase in difficulty but also in definitiveness.*
+- Brian Balfour"
 > 
 
 ---
