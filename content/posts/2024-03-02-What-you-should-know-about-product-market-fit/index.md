@@ -90,8 +90,7 @@ This is the holy grail of PMF - when you know that your product is engraved in y
 
 ## How to recognize Product/Market Fit when it starts happening.
 
-> *"You know you have PMF when your customers become raving advocates for you."* 
-- Andy Rachleff, Professor of PMF at Stanford.
+> *"You know you have PMF when your customers become raving advocates for you."*  - Andy Rachleff, Professor of PMF at Stanford.
 
 In this article, I explored two ways of measuring PMF. Firstly, through a product engagement curve and through qualitative user feedback. 
 
