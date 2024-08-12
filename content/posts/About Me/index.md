@@ -9,8 +9,14 @@ slug: /about
 
 ---
 
+Damilola is a senior product manager at Stears, a data-powered intelligence company that provides data, insight, and analytics to decision-makers about Africa. He is passionate about identifying customer pain points, building solutions to address them, and unlocking growth opportunities for technology companies. He currently achieves this by leading cross-functional teams to create personalized experiences that delight Stears' customers and ensure their retention. These initiatives have gone on to contribute about 25% to the company’s revenue.
 
-Hi, my name is Damilola Ajiboye. I am a Product Manager that is passionate about leveraging technology to solve people's problems. So, you won't be surprised if I tell you that I enjoy listening to people talk to me about their problems, then understanding the problems and brainstorming how technology can be leveraged to solve them.
+Before joining Stears, He was the founding Product Manager at DIYlaw, where he played a pivotal role in defining the product culture and aligning cross-functional stakeholders to adopt agile methodology in the product development lifecycle. A remarkable experience he had at DIYlaw was identifying the need to focus on serving businesses as the primary target audience. This strategic pivot resulted in a 48% increase in B2B revenue and established a new revenue stream for the company.
+
+Outside of work, he is the founding Project Leader for Black Product Manager’s Interview Prep Club, which selects 50 Black Product Managers every quarter, from hundreds of applicants. Damilola leads a founding team of 4 volunteers, who create curriculum and hold club members accountable to preparation goals every 3 months. This work has contributed to placing 130+ members into roles, generating more than $21M in wealth for the Black community, and locking in sponsorships to secure over $500K in funding.
+
+
+<!-- Hi, my name is Damilola Ajiboye. I am a Product Manager that is passionate about leveraging technology to solve people's problems. So, you won't be surprised if I tell you that I enjoy listening to people talk to me about their problems, then understanding the problems and brainstorming how technology can be leveraged to solve them.
 
 Prior to product management, I have worked in Digital Marketing, Web Design, Web Development, User Interface Design, and Sales where I've helped businesses of various sizes and across different industries to provide amazing experiences to their users and also drive growth. 
 
