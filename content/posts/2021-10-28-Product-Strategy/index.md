@@ -131,7 +131,7 @@ It is important for a growth-stage startup to clearly highlight these approaches
 ---
 ### Maturity:
 
-_The year is 2040 and grocery delivery are now done by driverless electronic bikes. At this point, Byke has started suffering declines as driverless bikes deliver faster, removes the extra handling of groceries, and also contribute to green energy._
+_The year is 2040 and grocery deliveries are now fulfilled by driverless electric bikes. At this point, Byke has started suffering declines as driverless bikes deliver faster, removes the extra handling of groceries, and also contribute to green energy._
 
 The choice for Byke is either to die a natural death, pivot to leveraging this new technology, launch a new product offering or disrupt a new market.
 
