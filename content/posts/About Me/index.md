@@ -2,6 +2,7 @@
 title: 👋🏾 About
 author: Damilola Ajiboye
 date: 2020-12-28
+hero: ./images/damilola-ajiboye.jpg
 secret: true
 subscription: false
 slug: /about
