@@ -2,7 +2,6 @@
 title: 👋🏾 About
 author: Damilola Ajiboye
 date: 2020-12-28
-hero: ./images/damilola-ajiboye.jpg
 secret: true
 subscription: false
 slug: /about
@@ -17,6 +16,8 @@ Outside of work, he is the founding Project Leader for Black Product Manager’s
 
 
 <!-- Hi, my name is Damilola Ajiboye. I am a Product Manager that is passionate about leveraging technology to solve people's problems. So, you won't be surprised if I tell you that I enjoy listening to people talk to me about their problems, then understanding the problems and brainstorming how technology can be leveraged to solve them.
+
+hero: ./images/damilola-ajiboye.jpg
 
 Prior to product management, I have worked in Digital Marketing, Web Design, Web Development, User Interface Design, and Sales where I've helped businesses of various sizes and across different industries to provide amazing experiences to their users and also drive growth. 
 
