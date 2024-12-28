@@ -1,9 +1,9 @@
 ---
-title: 2024 Wrapped: Top Resources Worth Sharing
+title: 2024 Wrapped - Top Resources Worth Sharing
 author: Damilola Ajiboye
 date: 2024-12-28
 hero: ./images/hero.png
-excerpt: 2024: A Year of Growth, Insights, and Innovation 
+excerpt: 2024 - A Year of Growth, Insights, and Innovation 
 
 ---
 
@@ -32,7 +32,9 @@ About a year later, the company started regaining its culture and maintained an 
 
 You can listen to the episode by clicking the link below 👇🏾
 
-[https://open.spotify.com/episode/3T0atk9VPcwZ9ht1AygEYc?go=1&sp_cid=2db6f21d686193eac8ec1677ef17b0a6&utm_source=embed_player_p&utm_medium=desktop&nd=1&dlsi=d7a730af79b34af5](https://open.spotify.com/episode/3T0atk9VPcwZ9ht1AygEYc?go=1&sp_cid=2db6f21d686193eac8ec1677ef17b0a6&utm_source=embed_player_p&utm_medium=desktop&nd=1&dlsi=d7a730af79b34af5)
+<figure class="video_container" style="text-align: center">
+ <iframe width="400" height="315" src="https://open.spotify.com/episode/3T0atk9VPcwZ9ht1AygEYc?go=1&sp_cid=2db6f21d686193eac8ec1677ef17b0a6&utm_source=embed_player_p&utm_medium=desktop&nd=1&dlsi=d7a730af79b34af5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</figure>
 
 ### **2. [Deb Liu on Why You Should PM Your Career Like You PM Your Product](https://youtu.be/MajB5CQUKDA)**
 
@@ -56,9 +58,9 @@ Here are a few key takeaways from the episode:
     2. Building 0→1 products helps to build critical skills like securing stakeholder buy-in, problem-solving with limited resources, and driving impactful initiatives. These big swings can change a company’s trajectory and are key experiences senior PMs and product leaders should have on their resumes.
     
     You can take a listen 👇🏾
-    
-
-[https://www.youtube.com/watch?v=MajB5CQUKDA&feature=youtu.be](https://www.youtube.com/watch?v=MajB5CQUKDA&feature=youtu.be)
+    <figure class="video_container" style="text-align: center">
+ <iframe width="400" height="315" src="https://www.youtube.com/watch?v=MajB5CQUKDA&feature=youtu.be" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</figure>
 
 ### 3. [Becoming a Super Individual Contributor](https://youtu.be/wFhurV1l6Jk)
 
@@ -85,7 +87,9 @@ However, the Manager path is just as important and relevant as the IC path. Like
 
 You can’t make an informed decision about which path to pursue without experiencing both. It’s best to try out senior IC and Manager roles to determine which aligns better with your strengths, preferences, and long-term career ambitions.
 
-[https://www.youtube.com/watch?v=wFhurV1l6Jk&feature=youtu.be](https://www.youtube.com/watch?v=wFhurV1l6Jk&feature=youtu.be)
+  <figure class="video_container" style="text-align: center">
+ <iframe width="400" height="315" src="https://www.youtube.com/watch?v=wFhurV1l6Jk&feature=youtu.be" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</figure>
 
 ### 4. [Prof. John Mearsheimer and Prof. Jeffrey Sachs on the All-In Podcast](https://www.youtube.com/watch?v=uvFtyDy_Bt0)
 
@@ -100,7 +104,9 @@ The past year has been marked by unprecedented geopolitical tensions, perhaps th
 
 You can take a listen 👇🏾
 
-[https://www.youtube.com/watch?v=uvFtyDy_Bt0](https://www.youtube.com/watch?v=uvFtyDy_Bt0)
+  <figure class="video_container" style="text-align: center">
+ <iframe width="400" height="315" src="https://www.youtube.com/watch?v=uvFtyDy_Bt0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</figure>
 
 ---
 
@@ -145,7 +151,9 @@ I didn’t originally plan to include a section like this in this wrap, but as I
 
 ### 1. [Google Project Guideline](https://projectguidelinejp.withgoogle.com/intl/en/)
 
-[https://youtu.be/4B7ANbihz78](https://youtu.be/4B7ANbihz78)
+<figure class="video_container" style="text-align: center">
+ <iframe width="400" height="315" src="https://youtu.be/4B7ANbihz78" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</figure>
 
 Project Guideline is a collaboration between Google Research and [Guiding Eyes for the Blind](https://www.guidingeyes.org/) that enables people with visual impairments (*e.g., blindness, and low vision*) to walk, jog, and run independently.
 
@@ -155,11 +163,15 @@ Another incredible thing about this technology is that Google has [open-sourced]
 
 Below are some heartfelt testimonials from users:
 
-[https://youtu.be/EI-ey591NZk](https://youtu.be/EI-ey591NZk)
+<figure class="video_container" style="text-align: center">
+ <iframe width="400" height="315" src="https://youtu.be/EI-ey591NZk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</figure>
 
 ### 2. [Google’s Project Relate](https://sites.research.google/relate/)
 
-[https://youtu.be/EU2oCVlzEZk](https://youtu.be/EU2oCVlzEZk)
+<figure class="video_container" style="text-align: center">
+ <iframe width="400" height="315" src="https://youtu.be/EU2oCVlzEZk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</figure>
 
 250 Million people in the world live with speech impairment. That’s about 3% of the World population that cannot easily make their voices heard. Project Relate is an Android beta app created to help these people make their voices heard by providing tools for easier communication.
 
@@ -169,9 +181,11 @@ The initiative started in 2018 and the app has 3 core features:
 2. **Repeat**: Repeats what the user has said in a computerized voice.
 3. **Assistant**: Connects directly with Google Assistant and completes day-to-day tasks for the user.
 
-[User Testimonial. See more [here](https://sites.research.google/relate/stories/)](https://drive.google.com/file/d/1G9wB3bxJzmRPRc68cFOvtwMOFQaQBnl1/view?usp=sharing)
-
-User Testimonial. See more [here](https://sites.research.google/relate/stories/)
+<div className="Image__Small">
+<figure>
+  <img src="images/Testimonial.webp" alt="User Testimonial. See more [here](https://sites.research.google/relate/stories/)"/>
+</figure>
+</div>
 
 ### 3. [Making Re-invented Toilets More Affordable - Bill & Melinda Gates Foundation](https://www.gatesfoundation.org/ideas/articles/affordable-reinvented-toilets-development)
 
@@ -181,6 +195,7 @@ The challenge with adopting these innovations is that they are often expensive a
 
 If the Gates Foundation can overcome this hurdle, it will be a significant win for SDG Goal 6, which aims to ensure access to water and sanitation for all.
 
+
 ---
 
 ### Tools
@@ -189,7 +204,9 @@ As always, I have highlighted some of the tools that I discovered this year and 
 
 ### 1. Vertex AI Model Garden
 
-[https://youtu.be/I7UiSU96CLc](https://youtu.be/I7UiSU96CLc)
+<figure class="video_container" style="text-align: center">
+ <iframe width="400" height="315" src="https://youtu.be/I7UiSU96CLc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</figure>
 
 Vertex AI is Google’s unified AI platform that simplifies the development, deployment, and management of machine learning models. It offers an end-to-end solution, including data processing, model training, and serving, with built-in tools for model evaluation and optimization. Vertex AI supports various frameworks like TensorFlow, PyTorch, and Scikit-learn, and integrates seamlessly with Google Cloud services.
 
@@ -197,7 +214,9 @@ What I love about Vertex AI is [Model Garden](https://console.cloud.google.com/v
 
 ### 2. [v0 by Vercel](https://v0.dev/)
 
-[https://youtu.be/By9wCB9IZp0](https://youtu.be/By9wCB9IZp0)
+<figure class="video_container" style="text-align: center">
+ <iframe width="400" height="315" src="https://youtu.be/By9wCB9IZp0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</figure>
 
 I've been a fan of Vercel since it was known as Zeit Now. I appreciated that they made amateur developers like me deploy our PWAs with just a click of a button. Over the years, Vercel has evolved from a simple PWA deployment platform into a robust cloud service, and more recently, an AI platform.
 
@@ -214,7 +233,9 @@ As an advocate for no/low-code solutions, I appreciate that Vercel offers templa
 
 ### 3. [Fathom](https://fathom.video/)
 
-[https://youtu.be/PWdlX0XBPRM](https://youtu.be/PWdlX0XBPRM)
+<figure class="video_container" style="text-align: center">
+ <iframe width="400" height="315" src="https://youtu.be/PWdlX0XBPRM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</figure>
 
 It’s no surprise that video conferencing recording tools made the list. Since co-launching [BuildGems](https://www.buildgems.org/) in August, I’ve been searching for affordable ways to record our speaker series without the need for an expensive Google One subscription for Google Meet Premium. Fathom has been incredibly resourceful in helping us share our content with many students.
 
@@ -224,7 +245,9 @@ At the time of writing this article, recorded videos on Fathom are always access
 
 ### 4. [tldv](https://tldv.io/)
 
-[https://youtu.be/lE_pXfIITpI](https://youtu.be/lE_pXfIITpI)
+<figure class="video_container" style="text-align: center">
+ <iframe width="400" height="315" src="https://youtu.be/lE_pXfIITpI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</figure>
 
 Like Fathom, tldv (Too Long, Didn’t View) is a video recording tool for recording video calls. It is designed to make video content more accessible by providing bit-sized video summaries of meetings. It allows users to extract key takeaways from recorded meetings, enabling quick recap of essential meetings without having to watch the entire recording.
 
@@ -236,13 +259,19 @@ For freemium users, tldv archives videos after a few days.
 
 ### [Neal.fun](http://neal.fun/)
 
-[[https://drive.google.com/file/d/124hBRK01KiVcmf8hNKVRDGE01bUFWBl5/view?usp=sharing](https://drive.google.com/file/d/124hBRK01KiVcmf8hNKVRDGE01bUFWBl5/view?usp=sharing)](https://drive.google.com/file/d/124hBRK01KiVcmf8hNKVRDGE01bUFWBl5/view?usp=sharing)
+<div className="Image__Small">
+<figure>
+  <img src="images/neal-fun.webp" alt=""/>
+</figure>
+</div>
 
 [Neal.fun](http://neal.fun/) is a creative website by [Neal Agarwal](https://x.com/nealagarwal). The website has a range of interactive, web-based tools designed to entertain and educate. It features a variety of fun, engaging projects (games) such as a "Virtual Bubble Wrap" popper, "The Size of Our Earth," and "How Many People Are In Space Right Now?" These projects allow users to explore data, visualization, and history in an engaging way. S/O to Hannah Kates for sharing this with me sometime in 2023.
 
 ### **The 'Finger of Death' that Freezes Everything it Touches - BBC Earth**
 
-[https://youtu.be/wcUouLOmQuU](https://youtu.be/wcUouLOmQuU)
+<figure class="video_container" style="text-align: center">
+ <iframe width="400" height="315" src="https://youtu.be/wcUouLOmQuU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</figure>
 
 ---
 
