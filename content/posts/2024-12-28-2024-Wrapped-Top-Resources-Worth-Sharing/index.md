@@ -1,9 +1,9 @@
 ---
-title: 2024 Wrapped: Top Resources Worth Sharing
+title: 2024 Wrapped - Top Resources Worth Sharing
 author: Damilola Ajiboye
 date: 2024-12-28
 hero: ./images/hero.png
-excerpt: 2024: A Year of Growth, Insights, and Innovation 
+excerpt: 2024 - A Year of Growth, Insights, and Innovation 
 
 ---
 
