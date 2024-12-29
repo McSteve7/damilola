@@ -30,12 +30,7 @@ Upon returning as CEO, Howard closed 900 stores—90% of which had opened within
 
 About a year later, the company started regaining its culture and maintained an upward trajectory. This experience proved that business success isn't an entitlement—it must be earned. Starbucks had stopped earning it due to their sloppiness, but Howard's decisive approach to refocusing the team proved invaluable. This is the hallmark of the lessons l learned from this episode.
 
-You can listen to the episode by clicking the link below 👇🏾
-
- <div style="text-align: center;">
-  <iframe width="400" height="315" src="https://open.spotify.com/episode/3T0atk9VPcwZ9ht1AygEYc?go=1&sp_cid=2db6f21d686193eac8ec1677ef17b0a6&utm_source=embed_player_p&utm_medium=desktop&nd=1&dlsi=d7a730af79b34af5" 
-  title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+You can listen to the episode [here](https://open.spotify.com/episode/3T0atk9VPcwZ9ht1AygEYc?go=1&sp_cid=2db6f21d686193eac8ec1677ef17b0a6&utm_source=embed_player_p&utm_medium=desktop&nd=1&dlsi=d7a730af79b34af5)
 
 ### **2. [Deb Liu on Why You Should PM Your Career Like You PM Your Product](https://youtu.be/MajB5CQUKDA)**
 
