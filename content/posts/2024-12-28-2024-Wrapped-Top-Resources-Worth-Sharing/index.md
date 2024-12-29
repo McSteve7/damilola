@@ -67,6 +67,7 @@ You can take a listen 👇🏾
 </div>
 
 
+
 ### 3. [Becoming a Super Individual Contributor](https://youtu.be/wFhurV1l6Jk)
 
 The debate between the IC (Individual Contributor) and Manager paths in product management has been a hot topic in many product management circles. This conversation is germane especially because of the landscape of the industry today. With recent downsizing and layoff exercises, many companies expect PM Managers to be hands-on and contribute to some day-to-day activities that a Sr. PM or a Group PM would typically be engaged in.
@@ -245,7 +246,7 @@ As an advocate for no/low-code solutions, I appreciate that Vercel offers templa
 ### 3. [Fathom](https://fathom.video/)
 
 <div style="text-align: center;">
-  <iframe width="400" height="315" src="https://youtu.be/PWdlX0XBPRM" 
+  <iframe width="400" height="315" src="https://www.youtube.com/watch?v=PWdlX0XBPRM" 
   title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
