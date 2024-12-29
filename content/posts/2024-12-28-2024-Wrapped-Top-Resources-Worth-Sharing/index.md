@@ -177,7 +177,7 @@ Below are some heartfelt testimonials from users:
 
 ### 2. [Google’s Project Relate](https://sites.research.google/relate/)
 
-div style="text-align: center;">
+<div style="text-align: center;">
   <iframe width="400" height="315" src="https://youtu.be/EU2oCVlzEZk" 
   title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
@@ -213,7 +213,7 @@ As always, I have highlighted some of the tools that I discovered this year and 
 
 ### 1. Vertex AI Model Garden
 
-div style="text-align: center;">
+<div style="text-align: center;">
   <iframe width="400" height="315" src="https://youtu.be/I7UiSU96CLc" 
   title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
@@ -224,7 +224,7 @@ What I love about Vertex AI is [Model Garden](https://console.cloud.google.com/v
 
 ### 2. [v0 by Vercel](https://v0.dev/)
 
-div style="text-align: center;">
+<div style="text-align: center;">
   <iframe width="400" height="315" src="https://youtu.be/By9wCB9IZp0" 
   title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
@@ -244,7 +244,7 @@ As an advocate for no/low-code solutions, I appreciate that Vercel offers templa
 
 ### 3. [Fathom](https://fathom.video/)
 
-div style="text-align: center;">
+<div style="text-align: center;">
   <iframe width="400" height="315" src="https://youtu.be/PWdlX0XBPRM" 
   title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
@@ -257,7 +257,7 @@ At the time of writing this article, recorded videos on Fathom are always access
 
 ### 4. [tldv](https://tldv.io/)
 
-div style="text-align: center;">
+<div style="text-align: center;">
   <iframe width="400" height="315" src="https://youtu.be/lE_pXfIITpI" 
   title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
@@ -281,7 +281,8 @@ For freemium users, tldv archives videos after a few days.
 [Neal.fun](http://neal.fun/) is a creative website by [Neal Agarwal](https://x.com/nealagarwal). The website has a range of interactive, web-based tools designed to entertain and educate. It features a variety of fun, engaging projects (games) such as a "Virtual Bubble Wrap" popper, "The Size of Our Earth," and "How Many People Are In Space Right Now?" These projects allow users to explore data, visualization, and history in an engaging way. S/O to Hannah Kates for sharing this with me sometime in 2023.
 
 ### **The 'Finger of Death' that Freezes Everything it Touches - BBC Earth**
-div style="text-align: center;">
+
+<div style="text-align: center;">
   <iframe width="400" height="315" src="https://youtu.be/wcUouLOmQuU" 
   title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
