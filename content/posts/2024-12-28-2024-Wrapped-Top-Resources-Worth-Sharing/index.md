@@ -108,15 +108,7 @@ The past year has been marked by unprecedented geopolitical tensions, perhaps th
 
 You can take a listen 👇🏾
 
-  <!-- <div style="text-align: center;">
-  <iframe width="400" height="315" src="https://www.youtube.com/embed/uvFtyDy_Bt0?si=fEn9AgqmhAgv_Kqo" 
-  title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div> -->
 
-<div style="text-align: center;">
-  <iframe width="400" height="315" src="https://www.youtube.com/embed/uvFtyDy_Bt0" 
-  title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
 
 ---
 
@@ -162,11 +154,7 @@ I didn’t originally plan to include a section like this in this wrap, but as I
 ### 1. [Google Project Guideline](https://projectguidelinejp.withgoogle.com/intl/en/)
 
 
-  <div style="text-align: center;">
-  <iframe width="400" height="315" src="https://youtu.be/4B7ANbihz78" 
-  title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
+ 
 
 Project Guideline is a collaboration between Google Research and [Guiding Eyes for the Blind](https://www.guidingeyes.org/) that enables people with visual impairments (*e.g., blindness, and low vision*) to walk, jog, and run independently.
 
@@ -177,19 +165,13 @@ Another incredible thing about this technology is that Google has [open-sourced]
 Below are some heartfelt testimonials from users:
 
 
- <div style="text-align: center;">
-  <iframe width="400" height="315" src="https://youtu.be/EI-ey591NZk" 
-  title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+ 
 
 
 ### 2. [Google’s Project Relate](https://sites.research.google/relate/)
 
 
-<div style="text-align: center;">
-  <iframe width="400" height="315" src="https://youtu.be/EU2oCVlzEZk" 
-  title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+
 
 
 250 Million people in the world live with speech impairment. That’s about 3% of the World population that cannot easily make their voices heard. Project Relate is an Android beta app created to help these people make their voices heard by providing tools for easier communication.
@@ -224,10 +206,7 @@ As always, I have highlighted some of the tools that I discovered this year and 
 ### 1. Vertex AI Model Garden
 
 
-<div style="text-align: center;">
-  <iframe width="400" height="315" src="https://youtu.be/I7UiSU96CLc" 
-  title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+
 
 
 Vertex AI is Google’s unified AI platform that simplifies the development, deployment, and management of machine learning models. It offers an end-to-end solution, including data processing, model training, and serving, with built-in tools for model evaluation and optimization. Vertex AI supports various frameworks like TensorFlow, PyTorch, and Scikit-learn, and integrates seamlessly with Google Cloud services.
@@ -237,10 +216,7 @@ What I love about Vertex AI is [Model Garden](https://console.cloud.google.com/v
 ### 2. [v0 by Vercel](https://v0.dev/)
 
 
-<div style="text-align: center;">
-  <iframe width="400" height="315" src="https://youtu.be/By9wCB9IZp0" 
-  title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+
 
 
 I've been a fan of Vercel since it was known as Zeit Now. I appreciated that they made amateur developers like me deploy our PWAs with just a click of a button. Over the years, Vercel has evolved from a simple PWA deployment platform into a robust cloud service, and more recently, an AI platform.
@@ -259,10 +235,6 @@ As an advocate for no/low-code solutions, I appreciate that Vercel offers templa
 ### 3. [Fathom](https://fathom.video/)
 
 
-<div style="text-align: center;">
-  <iframe width="400" height="315" src="https://www.youtube.com/watch?v=PWdlX0XBPRM" 
-  title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
 
 
 It’s no surprise that video conferencing recording tools made the list. Since co-launching [BuildGems](https://www.buildgems.org/) in August, I’ve been searching for affordable ways to record our speaker series without the need for an expensive Google One subscription for Google Meet Premium. Fathom has been incredibly resourceful in helping us share our content with many students.
@@ -274,10 +246,7 @@ At the time of writing this article, recorded videos on Fathom are always access
 ### 4. [tldv](https://tldv.io/)
 
 
-<div style="text-align: center;">
-  <iframe width="400" height="315" src="https://youtu.be/lE_pXfIITpI" 
-  title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+
 
 
 Like Fathom, tldv (Too Long, Didn’t View) is a video recording tool for recording video calls. It is designed to make video content more accessible by providing bit-sized video summaries of meetings. It allows users to extract key takeaways from recorded meetings, enabling quick recap of essential meetings without having to watch the entire recording.
@@ -301,10 +270,7 @@ For freemium users, tldv archives videos after a few days.
 ### **The 'Finger of Death' that Freezes Everything it Touches - BBC Earth**
 
 
-<div style="text-align: center;">
-  <iframe width="400" height="315" src="https://youtu.be/wcUouLOmQuU" 
-  title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+
 
 
 ---
