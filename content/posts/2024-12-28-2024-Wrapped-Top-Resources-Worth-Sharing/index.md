@@ -111,9 +111,13 @@ The past year has been marked by unprecedented geopolitical tensions, perhaps th
 
 You can take a listen 👇🏾
 
-  <div style="text-align: center;">
+  <!-- <div style="text-align: center;">
   <iframe width="400" height="315" src="https://youtu.be/uvFtyDy_Bt0" 
   title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div> -->
+
+<div>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uvFtyDy_Bt0?si=fEn9AgqmhAgv_Kqo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 ---
 
