@@ -58,8 +58,8 @@ Here are a few key takeaways from the episode:
     2. Building 0→1 products helps to build critical skills like securing stakeholder buy-in, problem-solving with limited resources, and driving impactful initiatives. These big swings can change a company’s trajectory and are key experiences senior PMs and product leaders should have on their resumes.
     
 
-    You can take a listen 👇🏾
-    
+You can take a listen 👇🏾
+
    <figure class="video_container" style="text-align: center">
  <iframe width="400" height="315" src="https://www.youtube.com/watch?v=MajB5CQUKDA&feature=youtu.be" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </figure>
