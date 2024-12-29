@@ -32,6 +32,9 @@ About a year later, the company started regaining its culture and maintained an 
 
 You can listen to the episode by clicking the link below 👇🏾
 
+<figure class="video_container" style="text-align: center">
+ <iframe width="400" height="315" src="https://open.spotify.com/episode/3T0atk9VPcwZ9ht1AygEYc?go=1&sp_cid=2db6f21d686193eac8ec1677ef17b0a6&utm_source=embed_player_p&utm_medium=desktop&nd=1&dlsi=d7a730af79b34af5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</figure>
 
 ### **2. [Deb Liu on Why You Should PM Your Career Like You PM Your Product](https://youtu.be/MajB5CQUKDA)**
 
