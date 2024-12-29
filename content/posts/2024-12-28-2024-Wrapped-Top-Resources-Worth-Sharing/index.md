@@ -60,9 +60,11 @@ Here are a few key takeaways from the episode:
 
 You can take a listen 👇🏾
 
-   <figure class="video_container" style="text-align: center">
- <iframe width="400" height="315" src="https://www.youtube.com/watch?v=MajB5CQUKDA&feature=youtu.be" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</figure>
+   <div style="text-align: center;">
+  <iframe width="400" height="315" src="https://www.youtube.com/embed/MajB5CQUKDA" 
+  title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 
 ### 3. [Becoming a Super Individual Contributor](https://youtu.be/wFhurV1l6Jk)
 
