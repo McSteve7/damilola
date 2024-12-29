@@ -89,10 +89,6 @@ However, the Manager path is just as important and relevant as the IC path. Like
 You can’t make an informed decision about which path to pursue without experiencing both. It’s best to try out senior IC and Manager roles to determine which aligns better with your strengths, preferences, and long-term career ambitions.
 
 
-  <div style="text-align: center;">
-  <iframe width="400" height="315" src=" https://youtu.be/wFhurV1l6Jk" 
-  title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
 
 
 ### 4. [Prof. John Mearsheimer and Prof. Jeffrey Sachs on the All-In Podcast](https://www.youtube.com/watch?v=uvFtyDy_Bt0)
