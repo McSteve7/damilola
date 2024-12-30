@@ -9,9 +9,9 @@ slug: /about
 
 ---
 
-Damilola is a senior product manager at Africa's largest sports and digital entertainment company. He is passionate about identifying customer pain points, building solutions to address them, and unlocking growth opportunities for technology companies. He currently achieves this by leading cross-functional teams to create personalized experiences that delight Stears' customers and ensure their retention. These initiatives have gone on to contribute about 25% to the company’s revenue.
+Damilola is a senior product manager at Africa's largest sports and digital entertainment company. He is passionate about identifying customer pain points, building solutions to address them, and unlocking growth opportunities for technology companies. He currently achieves this by leading cross-functional teams to create personalized experiences that delight customers and ensure their retention. 
 
-Before joining Stears, He was a senior product manager at Stears and the founding Product Manager at DIYlaw, where he played a pivotal role in defining the product culture and aligning and scaling multiple products from ideation to launch and scale. 
+Previously, He was a senior product manager at Stears and the founding Product Manager at DIYlaw, where he played a pivotal role in defining the product culture and aligning and scaling multiple products from ideation to launch and scale. 
 
 Outside of work, he is the founding Project Leader for Black Product Manager’s Interview Prep Club, which selects 50 Black Product Managers every quarter, from hundreds of applicants. Damilola leads a founding team of 4 volunteers, who create curriculum and hold club members accountable to preparation goals every 3 months. This work has contributed to placing 130+ members into roles, generating more than $21M in wealth for the Black community, and locking in sponsorships to secure over $500K in funding.
 
